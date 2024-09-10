@@ -1,0 +1,13 @@
+name = "Flawlessly Optimized"
+author = "chizusrevenge"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6f43c915a283482529477ab5f60321799bc4ff6b37a0a86553d43e74bb261d2d"
+
+[versions]
+fabric = "0.16.5"
+minecraft = "1.21.1"
