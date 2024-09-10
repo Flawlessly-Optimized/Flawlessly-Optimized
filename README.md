@@ -2,6 +2,8 @@
 
 <center><img src="https://i.imgur.com/wywSLKu.png" alt="FO logo" width="10%" height="10%"><br><br>
 
+**<font color="#8629ff">Flawlessly</font> Optimized**
+
 
 [![Modrinth][img-modrinth]][url-modrinth] 
 [![CurseForge][img-cf]][url-cf]
