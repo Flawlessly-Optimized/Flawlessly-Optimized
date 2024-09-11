@@ -42,7 +42,7 @@ Be part of our vibrant community of Minecraft enthusiasts. Share your feedback, 
 
 The versioning format is **`x.y.z-<pre-release>-<MC version>`**, where
 
-- **`x:`** MAJOR version *(1.20 was 1.y.z, 1.21 was 2.y.z)*
+- **`x:`** MAJOR version *(1.21 was 1.y.z, 1.22 was 2.y.z)*
 - **`y:`** MINOR version (*Big updates - Mod addition/removal)*
 - **`z:`** PATCH version (*Small changes - Micro Config Update,Mod Updates)*
 - **`pre-release:`** For untested,breaking changes,not ready for use versions *(Values: alpha,beta)*
@@ -51,6 +51,8 @@ The versioning format is **`x.y.z-<pre-release>-<MC version>`**, where
 **`x.y.z`** is reset to x.0.0 for every new MC release as different MC versions are very likely to have different mod sets available for them.
 
 </details>
+
+<div align="center">
 
 <sub>This is a continuation of the modpack. If you need old versions of the game, [go here](https://modrinth.com/modpack/vortexial-optimized)</sub>
 
