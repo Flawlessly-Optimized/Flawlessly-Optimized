@@ -1,6 +1,7 @@
 name = "BetterGrassify"
 filename = "FabricBetterGrass-1.0.23+1.21.1.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

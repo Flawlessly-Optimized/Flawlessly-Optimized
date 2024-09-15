@@ -1,6 +1,7 @@
 name = "Polytone"
 filename = "polytone-1.21-2.3.8-fabric.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

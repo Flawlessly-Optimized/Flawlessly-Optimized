@@ -7,7 +7,7 @@ joinedFirstServer:true
 maxFps:260
 onboardAccessibility:false
 operatorItemsTab:true
-resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","file/Fast Better Grass.zip"]
+resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default"]
 incompatibleResourcePacks:["modernfix","rrls","yet_another_config_lib_v3"]
 simulationDistance:6
 skipMultiplayerWarning:true
@@ -29,3 +29,4 @@ key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_iris.keybind.wireframe:key.keyboard.unknown
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
+key_key.resolutioncontrol.screenshot:key.keyboard.f9

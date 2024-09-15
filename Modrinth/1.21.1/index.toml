@@ -6,7 +6,7 @@ hash = "8bfe4a112351bcbd87a95325ebfc349df2810bdba7d7cf4db208c586e2bf85a4"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f6811439e75c291c0bbf93845416a6486fd7c5973c09b24cd5f8c3d3df9a6d72"
+hash = "3c11cb66bfa7d9504d1a7d87a54e8f7cb0f68132307e93fcbe82b8c9f78ca0ba"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -35,10 +35,6 @@ hash = "26b9c9b4a339ee609e03653b306404111e9fc5bce3d89455697e8e61b091fe3a"
 [[files]]
 file = "config/yosbr/config/capes.json5"
 hash = "1d5c2485642322621f600fd5bbbdd927d7f0647d040ccd27be348c2f51b9bbdc"
-
-[[files]]
-file = "config/yosbr/config/chatpatches.json"
-hash = "98b92ec78ca2f317ae0af50c8ac440f5974cab7de22ff2345fe05fce40042b33"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
@@ -86,7 +82,7 @@ hash = "e553ecb727e562a41c4b6867bbec467c8248f9564364a03d2dd3b9be89a7c19c"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "f6811439e75c291c0bbf93845416a6486fd7c5973c09b24cd5f8c3d3df9a6d72"
+hash = "3c11cb66bfa7d9504d1a7d87a54e8f7cb0f68132307e93fcbe82b8c9f78ca0ba"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -95,10 +91,6 @@ hash = "c71d65a4c83caf9b6ecb3cb80729b621bebf8ef9942391ca6f9c9c3d1cb190f4"
 [[files]]
 file = "config/yosbr/config/lithium.properties"
 hash = "09e3eb9d7d8f089057645613ec5859974551966b8e980d0371e76df392fafc40"
-
-[[files]]
-file = "config/yosbr/config/midnightlib.json"
-hash = "57b848fb6d7c03b6124297de49b1e4cb169e74db042c74aecf79f035ae2f3980"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
@@ -134,7 +126,7 @@ hash = "589959a2666d8611845e871dd86c51976236aed058fc2bfc6823ce2aa647c440"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "742fb2c2f3f959580daf2d61927152c0fa4a10c5dd36a1b53f90dbce366e1bb0"
+hash = "ede5d9d960b4ceabbe9c5d405afd33e7cc6e607a703c2a923f0e3fdf0e362d44"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -153,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "ea0d7654946d9392ceec4b301c8e59b46ade169e7c1d3e730989abc1e1ad8dd4"
+hash = "c2b9b0993807882c0537e09550dd228e96565380c2da7078142652f73efa6e8a"
 metafile = true
 
 [[files]]
@@ -198,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "e9fdd32c16e364850b2413217ab0ab4b2e8c0cea6a473c8f90f379b82dd2105e"
+hash = "14e62b9300da0d8a8cf5a39bb2ceb9960e8522be3cd6e9f5851550ed3345473d"
 metafile = true
 
 [[files]]
@@ -208,12 +200,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "7586887574ce8612893eeb6e9fc198d03f21a491ec3cc1a40c89c4d163e0a603"
+hash = "60c41c12194921098ad378d6d3c41d027a7691b008f314642f6a262d3a4bb040"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c61479621974d76c5389a9701395b8058ac20bc63b09f2011bbdfba580e43029"
+hash = "87d9258bfab38ed6aa8352ef7d5fd02e1e867c451e612aa1536f1fbefd5db7aa"
 metafile = true
 
 [[files]]
@@ -253,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "17c32da77a0b6a5fbbb7184b20254dfb96a2ea14f453fd7b1c5e7b4ba22a168d"
+hash = "cbf0e24785c28adc6f7a466a8e7e612771f89572961d22df1067c801fcc5cdb9"
 metafile = true
 
 [[files]]
@@ -298,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "74c271588e6cf9ee639918f50aeca174c46e1b0b19ea2a061b9d33b8fcfabb6d"
+hash = "50982bb485c1c19d78516b43bcd32c54bbaf08fe4d9d1be313185e947bb52a6f"
 metafile = true
 
 [[files]]
@@ -328,12 +320,12 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "9a7c39dc84670b6927132ef90ccf66a370a3dff8a25657f0db204f0d8d86385e"
+hash = "87182afc6f550ac418ff28983144b040010b03cb0603e878faa86a8239baf656"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "dad26a5b8cdf699093ab461c2c4e6713d1f9019a68efee8d2a9c068ef9ede742"
+hash = "6fd2b48ff50500530135bf5e15c6b9970fa2d9fe7a25e8fa2044d42d35fa371c"
 metafile = true
 
 [[files]]
@@ -353,12 +345,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "e077e3120af6f1872c992dc482a8b8cca9dd098eafd1b7eefe3ae3d771872fbd"
+hash = "ca2f32c788f88105a9b68dcea5f63d368e2180e91c6ba48601f8ea771a3caa80"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "035c1decfd031b586058ebdd7b458620d61f5c7bb90ca76e2c69436b03bac6e3"
+hash = "3d44f3986f645c57017047a96454d8c912f6c28594df17b008d1b47eb0c8a1a4"
 metafile = true
 
 [[files]]
