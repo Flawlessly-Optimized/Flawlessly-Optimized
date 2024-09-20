@@ -5,7 +5,7 @@
 ### Flawlessly Optimized 1.0.1 [Experimental]
 
 **🔄Updated mods:**
--CIT Resewn,Enhanced Block Entities
+-CIT Resewn,Enhanced Block Entities,Entity Texture Features
 
 **❌Temporarily incompatible:**
 - `Nvidium` does not work on Sodium 0.6
