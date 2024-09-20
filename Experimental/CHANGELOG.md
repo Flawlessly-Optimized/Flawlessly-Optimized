@@ -2,6 +2,15 @@
 
 ## 1.21.1
 
+### Flawlessly Optimized 1.0.1 [Experimental]
+
+**🔄Updated mods:**
+-CIT Resewn,Enhanced Block Entities
+
+**❌Temporarily incompatible:**
+- `Nvidium` does not work on Sodium 0.6
+- `More Culling` works on Sodium 0.6, but sort of not. At the moment the mod is buggy had to replace it with `Sodium Leaf Culling`.
+
 ### Flawlessly Optimized 1.0.0 [Experimental]
 
 **🔄Updated mods:**
@@ -12,4 +21,4 @@
 
 **❌Temporarily incompatible:**
 - `Nvidium` does not work on Sodium 0.6
-- `More Culling` it works on Sodium 0.6, but sort of not. At the moment, the buggy one had to be replaced by `Sodium Leaf Culling`.
+- `More Culling` works on Sodium 0.6, but sort of not. At the moment the mod is buggy had to replace it with `Sodium Leaf Culling`.

@@ -6,7 +6,7 @@ hash = "8bfe4a112351bcbd87a95325ebfc349df2810bdba7d7cf4db208c586e2bf85a4"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "3e74e776335d5283d2f512c5da892026a5b3ad7caa7e85751d26ce13bb2b13a3"
+hash = "5e86c9f3e6011deef22f3f39afe678665db848d641185c2740dc38f16b4ab4a0"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -82,7 +82,7 @@ hash = "e553ecb727e562a41c4b6867bbec467c8248f9564364a03d2dd3b9be89a7c19c"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "3e74e776335d5283d2f512c5da892026a5b3ad7caa7e85751d26ce13bb2b13a3"
+hash = "5e86c9f3e6011deef22f3f39afe678665db848d641185c2740dc38f16b4ab4a0"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "81fce031d76a5ba3cb346f66c7c8119304d0b9b759cb613a532e2ed3500f94e0"
+hash = "626327f9f19c9cc541368ed0b692c82a51f9f518f84808e6fc272f42a125b515"
 metafile = true
 
 [[files]]
@@ -184,8 +184,9 @@ hash = "f75c36cc24b93304c1a7ba7a34c44da2fecf389ef577463f85332b6292cbd0b2"
 metafile = true
 
 [[files]]
-file = "mods/enhancedblockentities-0.10.2+1.21.jar"
-hash = "0dbeef596cc6d58ec88a283d808bf53e8fcae9920b3871c9010dc4c5f30c412a"
+file = "mods/enhanced-block-entities.pw.toml"
+hash = "2c1d05da2179691fc1c27b53eaf942c32ff1528739a9be5e3a34dd2a92105696"
+metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
