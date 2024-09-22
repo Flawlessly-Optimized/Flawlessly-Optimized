@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "f75c36cc24b93304c1a7ba7a34c44da2fecf389ef577463f85332b6292cbd0b2"
+hash = "edac4c49e3bf3b04460b57f9053757880d36c9f2855a15ed66773168442414ad"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "1a4ca1db88ea243d4e36021f179aedee55e3bf52a99cd0119b2e3a1b966d518f"
+hash = "bf87266803c4386966e90dc88a99888e3bb6e519d11c18b1edccbec507814b93"
 metafile = true
 
 [[files]]
@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "e643581d89b6cb6209e219c2bed2fa1f5367ef42bcc9d2ee0083c99a4a41778e"
+hash = "b36a4381432ea6d3da7d93412964eb982c413c2844bd4140526c30153c579918"
 metafile = true
 
 [[files]]
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "4166c9430ccdff27b472b08514733f5acbf913e82e46f4b60b15a29f44ccefec"
+hash = "64d946e815b6a939a10e2fd846e54a65cbbbe1782cdcd10ce30fff285a04acd6"
 metafile = true
 
 [[files]]

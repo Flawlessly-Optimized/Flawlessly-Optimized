@@ -2,8 +2,13 @@
 
 ## 1.21.1
 
-### Flawlessly Optimized 1.0.1
+### Flawlessly Optimized 1.0.2
 
+**🔄Updated mods:**
+- Dynamic FPS,CIT Resewn,Entity Texture Features,OptiGUI,Lithium,Cloth Config API,Fabric Language Kotlin
+  - Skipped updates Sodium and other mods related to the new 0.6.0 version.
+
+### Flawlessly Optimized 1.0.1
 
 **🔄Updated mods:**
 - Fabric API,Entity Texture Features,Entity Model Features
