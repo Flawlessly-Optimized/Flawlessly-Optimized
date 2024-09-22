@@ -6,7 +6,7 @@ hash = "8bfe4a112351bcbd87a95325ebfc349df2810bdba7d7cf4db208c586e2bf85a4"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "3c11cb66bfa7d9504d1a7d87a54e8f7cb0f68132307e93fcbe82b8c9f78ca0ba"
+hash = "a689c639172c1af0db53ad8e5a1dd50d2b2a9b42cb222480246af25c7df6b8c8"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -82,7 +82,7 @@ hash = "e553ecb727e562a41c4b6867bbec467c8248f9564364a03d2dd3b9be89a7c19c"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "3c11cb66bfa7d9504d1a7d87a54e8f7cb0f68132307e93fcbe82b8c9f78ca0ba"
+hash = "a689c639172c1af0db53ad8e5a1dd50d2b2a9b42cb222480246af25c7df6b8c8"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
