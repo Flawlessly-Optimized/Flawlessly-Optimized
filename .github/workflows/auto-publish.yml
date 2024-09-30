@@ -1,0 +1,56 @@
+name: Automatically publish to Modrinth and CurseForge
+on: 
+   release:
+    types: [published]
+jobs:
+    publish-to-curseforge:
+        runs-on: ubuntu-24.04
+        environment: github-actions
+        steps:
+            - name: Download pack files
+              uses: robinraju/release-downloader@v1.11
+              id: download-files
+              with:
+                fileName: "*.zip"
+                latest: true
+                tarBall: false
+                zipBall: false
+                preRelease: true
+
+            - name: Publish to Curseforge
+              uses: Kir-Antipov/mc-publish@v3.3
+              with:
+               name: ${{ vars.MC_NAME }} for ${{ vars.MC_VERSION }}
+               curseforge-id: 1100203
+               curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
+               curseforge-files: '*.zip'
+               loaders: fabric
+               game-versions: ${{ vars.MC_VERSION }}
+               changelog-file: ${{ vars.CF_CHANGELOG}}
+
+    publish-to-modrinth:
+        runs-on: ubuntu-24.04
+        environment: github-actions
+        steps:
+            - name: Download pack files
+              uses: robinraju/release-downloader@v1.11
+              id: download-files
+              with:
+                fileName: "*.mrpack"
+                latest: true
+                tarBall: false
+                zipBall: false
+                preRelease: true
+
+            - name: Publish to Modrinth
+              uses: Kir-Antipov/mc-publish@v3.3
+              with:
+                name: ${{ vars.MC_NAME }} for ${{ vars.MC_VERSION }}
+                modrinth-id: KyMLYL5o
+                modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+                modrinth-files: '*.mrpack'
+                modrinth-unfeature-mode: subset
+                loaders: fabric
+                game-versions: ${{ vars.MC_VERSION }}
+                changelog-file: ${{ vars.MR_CHANGELOG}}
+
