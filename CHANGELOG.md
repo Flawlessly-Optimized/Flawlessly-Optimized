@@ -2,12 +2,6 @@
 
 ## 1.21.1
 
-### 1.0.3 (29/09/24)
-
-**🔄Updated mods:**
-- Fabric API,OptiGUI,Remove Reloading Screen
-  - Skipped updates Sodium and other mods related to the new 0.6.0 version.
-
 ### 1.0.2 (22/09/24)
 
 **🔄Updated mods:**
