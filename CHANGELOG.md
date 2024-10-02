@@ -2,13 +2,19 @@
 
 ## 1.21.1
 
-### Flawlessly Optimized 1.0.2
+### 1.0.3 (29/09/24)
+
+**🔄Updated mods:**
+- Fabric API,OptiGUI,Remove Reloading Screen
+  - Skipped updates Sodium and other mods related to the new 0.6.0 version.
+
+### 1.0.2 (22/09/24)
 
 **🔄Updated mods:**
 - Dynamic FPS,CIT Resewn,Entity Texture Features,OptiGUI,Lithium,Cloth Config API,Fabric Language Kotlin
   - Skipped updates Sodium and other mods related to the new 0.6.0 version.
 
-### Flawlessly Optimized 1.0.1
+### 1.0.1 (15/09/24)
 
 **🔄Updated mods:**
 - Fabric API,Entity Texture Features,Entity Model Features
@@ -21,7 +27,7 @@
   - Removed unnecessary lines from the old modpack
 - In the `YOSBR` folder I removed unnecessary configs
 
-### Flawlessly Optimized 1.0.0
+### 1.0.0 (10/09/24)
 
 **Yes this is a continuation of my modpack (Vortexial Optimized) but fixed in a different way**
 
