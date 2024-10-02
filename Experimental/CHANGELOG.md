@@ -33,4 +33,4 @@
 
 **❌Temporarily incompatible:**
 - `Nvidium` does not work on Sodium 0.6
-- `More Culling` works on Sodium 0.6, but sort of not. At the moment the mod is buggy had to replace it with `Sodium Leaf Culling`.
+- `More Culling` works on Sodium 0.6 but sort of not. At the moment the mod is buggy had to replace it with `Sodium Leaf Culling`.
