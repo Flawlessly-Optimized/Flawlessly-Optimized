@@ -2,6 +2,16 @@
 
 ## 1.21.1
 
+### 1.0.3 (04/10/24)
+
+**🔄Updated mods:**
+- Fabric API,OptiGUI,Remove Reloading Screen
+  - Skipped updates Sodium and other mods related to the new 0.6.0 version.
+
+**⬇️Other changes:**
+- Returned `enable_sky_color_caching: true` i hope there's no epilepsy with the sky.
+- Add config `BetterGrass` in folder `YOSBR`. By default `BetterGrass` on FAST
+
 ### 1.0.2 (22/09/24)
 
 **🔄Updated mods:**

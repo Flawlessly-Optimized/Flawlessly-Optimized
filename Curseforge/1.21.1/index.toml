@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/badoptimizations.txt"
+hash = "baad8b038ffb20da0340963b8918b9bc196e9c6ea72b06b3f13a5e94ddb536e6"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "8bfe4a112351bcbd87a95325ebfc349df2810bdba7d7cf4db208c586e2bf85a4"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a689c639172c1af0db53ad8e5a1dd50d2b2a9b42cb222480246af25c7df6b8c8"
+hash = "91033ac21fb9d04d8c38d2d7966e961365a07dc3886488785a74929d760b5928"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -30,7 +34,11 @@ hash = "f0decb31d974351dd9337caf02320d22470adec6b96411bb84596cdc73d77dac"
 
 [[files]]
 file = "config/yosbr/config/badoptimizations.txt"
-hash = "26b9c9b4a339ee609e03653b306404111e9fc5bce3d89455697e8e61b091fe3a"
+hash = "baad8b038ffb20da0340963b8918b9bc196e9c6ea72b06b3f13a5e94ddb536e6"
+
+[[files]]
+file = "config/yosbr/config/bettergrass.json5"
+hash = "815dfa52523333d9a5be278b6127d996528acb9a4875772b5790203922f5437b"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -82,7 +90,7 @@ hash = "e553ecb727e562a41c4b6867bbec467c8248f9564364a03d2dd3b9be89a7c19c"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "a689c639172c1af0db53ad8e5a1dd50d2b2a9b42cb222480246af25c7df6b8c8"
+hash = "91033ac21fb9d04d8c38d2d7966e961365a07dc3886488785a74929d760b5928"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -205,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b20e8661162c4568ad733af79a714b9304067fd4a8c1e7af6824d13d548b8355"
+hash = "9cdc3215713f357d68e22b2c61155b84d361646ee57f2cca90287b52837dbb56"
 metafile = true
 
 [[files]]
@@ -315,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "b36a4381432ea6d3da7d93412964eb982c413c2844bd4140526c30153c579918"
+hash = "475bf7327974ab5ef9d73d94504e21a0122642b8157735a598cba8cb4876bc94"
 metafile = true
 
 [[files]]
@@ -335,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "50f7833a51163d6790f85573c6f6ed643952d66776dd325f04a5f7a8198e8a74"
+hash = "2e22e22a68369165d2ff0d415d1459c7ba20684ef543c869c090518977428b69"
 metafile = true
 
 [[files]]
