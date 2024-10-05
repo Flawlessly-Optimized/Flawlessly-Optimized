@@ -27,7 +27,6 @@ jobs:
                curseforge-files: '*.zip'
                loaders: fabric
                game-versions: ${{ vars.MC_VERSION }}
-               changelog-file: ${{ vars.CF_CHANGELOG}}
 
     publish-to-modrinth:
         runs-on: ubuntu-24.04
@@ -53,5 +52,4 @@ jobs:
                 modrinth-unfeature-mode: subset
                 loaders: fabric
                 game-versions: ${{ vars.MC_VERSION }}
-                changelog-file: ${{ vars.MR_CHANGELOG}}
 
