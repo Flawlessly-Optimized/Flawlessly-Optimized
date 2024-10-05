@@ -2,6 +2,19 @@
 
 ## 1.21.1
 
+### 1.1.2 [Experimental] (05/10/24)
+
+**🔄Updated mods:**
+- BetterGrassify,Polytone,More Culling
+
+**⬇️Other changes:**
+- Returned `enable_sky_color_caching: true` i hope there's no epilepsy with the sky.
+- Add config `BetterGrass` in folder `YOSBR`. By default `BetterGrass` on FAST
+
+**❌Temporarily incompatible:**
+- `Nvidium` does not work on Sodium 0.6
+
+
 ### 1.1.1 [Experimental] (29/09/24)
 
 **🔄Updated mods:**

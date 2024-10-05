@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/badoptimizations.txt"
+hash = "baad8b038ffb20da0340963b8918b9bc196e9c6ea72b06b3f13a5e94ddb536e6"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "8bfe4a112351bcbd87a95325ebfc349df2810bdba7d7cf4db208c586e2bf85a4"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "82a963b53e3af95608543a1072dceb49d2bb7734d2fd759b6db0f00a63e5c596"
+hash = "648845c1def4f160b2814aa3499b243a0e03da9cd13fc8e0c58d9cdcd7d3972c"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -30,7 +34,11 @@ hash = "f0decb31d974351dd9337caf02320d22470adec6b96411bb84596cdc73d77dac"
 
 [[files]]
 file = "config/yosbr/config/badoptimizations.txt"
-hash = "26b9c9b4a339ee609e03653b306404111e9fc5bce3d89455697e8e61b091fe3a"
+hash = "baad8b038ffb20da0340963b8918b9bc196e9c6ea72b06b3f13a5e94ddb536e6"
+
+[[files]]
+file = "config/yosbr/config/bettergrass.json5"
+hash = "815dfa52523333d9a5be278b6127d996528acb9a4875772b5790203922f5437b"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -82,7 +90,7 @@ hash = "e553ecb727e562a41c4b6867bbec467c8248f9564364a03d2dd3b9be89a7c19c"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "82a963b53e3af95608543a1072dceb49d2bb7734d2fd759b6db0f00a63e5c596"
+hash = "648845c1def4f160b2814aa3499b243a0e03da9cd13fc8e0c58d9cdcd7d3972c"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -145,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "032d3371f7ceecac56b1210caae39a91508426c788cdfee62f4c89f9c2a6fbdb"
+hash = "2d15ee97c5949ac03b868b92e9fa5ca337df5df088df44e07f2484da5b9b115e"
 metafile = true
 
 [[files]]
@@ -285,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "58075cfb978cc8c7391ab6a2a319639606202276b18218c980f0172476ae3b39"
+hash = "2e723fc6a491af0b5f6c174976ef08caae5a3c1e58cdd7a7e6244bbdbb22fde7"
 metafile = true
 
 [[files]]
@@ -310,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "dfcb23b046d2a3ffc519cf23fbb33bb47f944c88db00d89ba9ead05f35d42c14"
+hash = "dbe0a5feaf96355643d32ffd705bad20799204940ee8bf1b26fa9abd61c558c8"
 metafile = true
 
 [[files]]
