@@ -1,6 +1,7 @@
 name: Automatically publish to Modrinth and CurseForge
-on: 
-   release:
+on:
+  workflow_dispatch:
+  release:
     types: [published]
 jobs:
     publish-to-curseforge:
