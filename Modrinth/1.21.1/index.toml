@@ -1,16 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/badoptimizations.txt"
-hash = "baad8b038ffb20da0340963b8918b9bc196e9c6ea72b06b3f13a5e94ddb536e6"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "8bfe4a112351bcbd87a95325ebfc349df2810bdba7d7cf4db208c586e2bf85a4"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "91033ac21fb9d04d8c38d2d7966e961365a07dc3886488785a74929d760b5928"
+hash = "cbcf9df6b06394b955376a8cde436655947597cc9b6e4b145eb74acccd87c483"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -90,7 +86,7 @@ hash = "e553ecb727e562a41c4b6867bbec467c8248f9564364a03d2dd3b9be89a7c19c"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "91033ac21fb9d04d8c38d2d7966e961365a07dc3886488785a74929d760b5928"
+hash = "cbcf9df6b06394b955376a8cde436655947597cc9b6e4b145eb74acccd87c483"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -257,6 +253,11 @@ hash = "cbf0e24785c28adc6f7a466a8e7e612771f89572961d22df1067c801fcc5cdb9"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "38d15aa7d6c9c41f437ba00f5fe89b899fff4892ac6fe39c09e89677d8f3b075"
+metafile = true
+
+[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "4772d2d7620cb1f60562d9b139bdec190d80ab1aba55da31b9fb2351858d43ec"
 metafile = true
@@ -317,13 +318,8 @@ hash = "689a6b882d654811647fa99eaaa5d5d0c089281846a1fcf1d6242cd18063569e"
 metafile = true
 
 [[files]]
-file = "mods/obsidianui.pw.toml"
-hash = "dda59416b56067789701b5fbbc53969c14e8c43dc8ffbc31d1c55668a535558d"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
-hash = "7074586f4e29d76663015fc42bb77eb05f8005b5d0f6dafe4a09667ffdf4229b"
+hash = "ca77b2f891e554b3ba0db25f14403f7fbe9dceb7c0958e8077684b9a2d34529b"
 metafile = true
 
 [[files]]
@@ -344,11 +340,6 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "4c9833711924bb72dc2cb23a91580439d3c4f58b9ed78dcbece5054233162c44"
-metafile = true
-
-[[files]]
-file = "mods/ryoamiclights.pw.toml"
-hash = "ea10b64e72890a0b0fac51f24c33c33ecee7e1fbe4c5d1ce7df053f65c004ba9"
 metafile = true
 
 [[files]]

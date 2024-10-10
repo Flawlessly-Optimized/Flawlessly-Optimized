@@ -2,6 +2,18 @@
 
 ## 1.21.1
 
+### 1.1.1 (10/10/24)
+
+**🔄Updated mods:**
+- OptiGUI
+  - Skipped updates Sodium and other mods related to the new 0.6.0 version.
+
+**➕Added mod:**
+- LambDynamicLights
+
+**❌Removed mods:**
+- RyoamicLights and ObsidianUI
+
 ### 1.0.3 (04/10/24)
 
 **🔄Updated mods:**
