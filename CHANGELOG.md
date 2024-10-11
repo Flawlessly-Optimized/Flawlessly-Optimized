@@ -2,6 +2,17 @@
 
 ## 1.21.1
 
+### 1.1.2 (11/10/24)
+
+**🔄Updated mods:**
+- Fabric Language Kotlin
+  - Skipped updates Sodium and other mods related to the new 0.6.0 version.
+
+**⬇️Other changes:**
+- Fabric Loader updated to version 0.16.7
+- Mods button now appears in full width on pause menu
+- `fabric_loader_dependencies` now depends on Fabric Loader 0.16.7
+
 ### 1.1.1 (10/10/24)
 
 **🔄Updated mods:**

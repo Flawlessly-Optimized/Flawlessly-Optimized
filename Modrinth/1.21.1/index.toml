@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "8bfe4a112351bcbd87a95325ebfc349df2810bdba7d7cf4db208c586e2bf85a4"
+hash = "02337b27909ffbf6f83fd3c60b1403ec115570de9271ccc347a6b14916a516f9"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "cbcf9df6b06394b955376a8cde436655947597cc9b6e4b145eb74acccd87c483"
+hash = "32558a3f2690ba5918ae2d346273665bc5ef73520375801b06688438a3980a1b"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "f567c383882e1267c38a18e844a497e95500a9e06c9e7f679b19f8c9c662d118"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -66,7 +70,7 @@ hash = "7e30147e41c4ec54007a0e6fddf4524d029617035777a4d99d872183b29a5a24"
 
 [[files]]
 file = "config/yosbr/config/fabric_loader_dependencies.json"
-hash = "8bfe4a112351bcbd87a95325ebfc349df2810bdba7d7cf4db208c586e2bf85a4"
+hash = "02337b27909ffbf6f83fd3c60b1403ec115570de9271ccc347a6b14916a516f9"
 
 [[files]]
 file = "config/yosbr/config/fastquit.toml"
@@ -86,7 +90,7 @@ hash = "e553ecb727e562a41c4b6867bbec467c8248f9564364a03d2dd3b9be89a7c19c"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "cbcf9df6b06394b955376a8cde436655947597cc9b6e4b145eb74acccd87c483"
+hash = "32558a3f2690ba5918ae2d346273665bc5ef73520375801b06688438a3980a1b"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -102,7 +106,7 @@ hash = "6e54d8ee40eabe16a06733265d5f90be10e699618cac1b89fbb0d28be776fdf5"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "1b2a50bc0f032f2e26ef3d19fbd29cc6649692f2a6663fb20372950e779aca2c"
+hash = "f567c383882e1267c38a18e844a497e95500a9e06c9e7f679b19f8c9c662d118"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -214,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "a0f68c2f7f4138a8abde7f8001fa92df3daa863490572b790ffd074a31903b02"
+hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
 metafile = true
 
 [[files]]
