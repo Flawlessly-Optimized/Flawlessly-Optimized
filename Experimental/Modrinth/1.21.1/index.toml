@@ -1,16 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/badoptimizations.txt"
-hash = "baad8b038ffb20da0340963b8918b9bc196e9c6ea72b06b3f13a5e94ddb536e6"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "8bfe4a112351bcbd87a95325ebfc349df2810bdba7d7cf4db208c586e2bf85a4"
+hash = "02337b27909ffbf6f83fd3c60b1403ec115570de9271ccc347a6b14916a516f9"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "648845c1def4f160b2814aa3499b243a0e03da9cd13fc8e0c58d9cdcd7d3972c"
+hash = "757c9d5fd956715b82807c7945dbb90f893cc471c3dd3c2894ced1c6a5b3ab3e"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "f567c383882e1267c38a18e844a497e95500a9e06c9e7f679b19f8c9c662d118"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -70,7 +70,7 @@ hash = "7e30147e41c4ec54007a0e6fddf4524d029617035777a4d99d872183b29a5a24"
 
 [[files]]
 file = "config/yosbr/config/fabric_loader_dependencies.json"
-hash = "8bfe4a112351bcbd87a95325ebfc349df2810bdba7d7cf4db208c586e2bf85a4"
+hash = "02337b27909ffbf6f83fd3c60b1403ec115570de9271ccc347a6b14916a516f9"
 
 [[files]]
 file = "config/yosbr/config/fastquit.toml"
@@ -90,7 +90,7 @@ hash = "e553ecb727e562a41c4b6867bbec467c8248f9564364a03d2dd3b9be89a7c19c"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "648845c1def4f160b2814aa3499b243a0e03da9cd13fc8e0c58d9cdcd7d3972c"
+hash = "757c9d5fd956715b82807c7945dbb90f893cc471c3dd3c2894ced1c6a5b3ab3e"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -106,7 +106,7 @@ hash = "6e54d8ee40eabe16a06733265d5f90be10e699618cac1b89fbb0d28be776fdf5"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "1b2a50bc0f032f2e26ef3d19fbd29cc6649692f2a6663fb20372950e779aca2c"
+hash = "f567c383882e1267c38a18e844a497e95500a9e06c9e7f679b19f8c9c662d118"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "a0f68c2f7f4138a8abde7f8001fa92df3daa863490572b790ffd074a31903b02"
+hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
 metafile = true
 
 [[files]]
@@ -249,6 +249,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "8663b25e8805cc38d50355590699b2266c2c8be50000451311c866113aa29b4b"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "38d15aa7d6c9c41f437ba00f5fe89b899fff4892ac6fe39c09e89677d8f3b075"
 metafile = true
 
 [[files]]
@@ -293,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "2e723fc6a491af0b5f6c174976ef08caae5a3c1e58cdd7a7e6244bbdbb22fde7"
+hash = "9b7a2371de4ca39b009067a20bd71a35100ef87ab16a4b0b34f04fc4ace881f3"
 metafile = true
 
 [[files]]
@@ -307,18 +312,13 @@ hash = "dcc936d7bd32a86ce63fa3bf013864a4e2ed979cb126a915153ac70ce5e5671f"
 metafile = true
 
 [[files]]
-file = "mods/obsidianui.pw.toml"
-hash = "dda59416b56067789701b5fbbc53969c14e8c43dc8ffbc31d1c55668a535558d"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
-hash = "7074586f4e29d76663015fc42bb77eb05f8005b5d0f6dafe4a09667ffdf4229b"
+hash = "ca77b2f891e554b3ba0db25f14403f7fbe9dceb7c0958e8077684b9a2d34529b"
 metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "780301f909b1256c6d79ed499a627bf0460f8b7495165dc0c800b2ea098628d6"
+hash = "74c889c8b55ab42db6c9a0d990583c93bf90c8f4fab84b0b758e4d37e31d1f2e"
 metafile = true
 
 [[files]]
@@ -339,11 +339,6 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "4c9833711924bb72dc2cb23a91580439d3c4f58b9ed78dcbece5054233162c44"
-metafile = true
-
-[[files]]
-file = "mods/ryoamiclights.pw.toml"
-hash = "ea10b64e72890a0b0fac51f24c33c33ecee7e1fbe4c5d1ce7df053f65c004ba9"
 metafile = true
 
 [[files]]

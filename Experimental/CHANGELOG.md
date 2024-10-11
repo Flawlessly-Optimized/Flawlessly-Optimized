@@ -2,6 +2,23 @@
 
 ## 1.21.1
 
+### 1.1.3 [Experimental] (11/10/24)
+
+**🔄Updated mods:**
+- OptiGUI,Polytone,More Culling,Fabric Language Kotlin
+
+**♻️Replaced mods:**
+- RyoamicLights and ObsidianUI removed
+- LambDynamicLights added to modpack
+
+**⬇️Other changes:**
+- Fabric Loader updated to version 0.16.7
+- Mods button now appears in full width on pause menu
+- `fabric_loader_dependencies` now depends on Fabric Loader 0.16.7
+
+**❌Temporarily incompatible:**
+- `Nvidium` does not work on Sodium 0.6
+
 ### 1.1.2 [Experimental] (05/10/24)
 
 **🔄Updated mods:**
