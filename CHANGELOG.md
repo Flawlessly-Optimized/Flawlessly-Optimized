@@ -2,6 +2,21 @@
 
 ## 1.21.1
 
+### 1.2.1 (15/10/24)
+
+**🔄Updated mods:**
+- **Mod Menu**
+  - Skipped updates Sodium and other mods related to the new 0.6.0 version.
+
+**♻️Replaced mods:**
+- **ResolutionControl 3** was removed (from Github and Modrinth by author. Why he do.. We don't know)
+- **Add Fabrishot** to modpack
+
+**⬇️Other changes:**
+- Add config for **Fabrishot** from my EOL Modpack
+- Removed in `options.txt` `YOSBR` folder removed string `key_key.resolutioncontrol.screenshot:key.keyboard.f9 `
+- Add in `options.txt` `YOSBR` folder added string `key_key.fabrishot.screenshot:key.keyboard.f9`
+
 ### 1.1.2 (11/10/24)
 
 **🔄Updated mods:**
