@@ -10,7 +10,7 @@
 
 **♻️Replaced mods:**
 - **ResolutionControl 3** was removed (from Github and Modrinth by author. Why he do.. We don't know)
-- **Add Fabrishot** to modpack
+- Add **Fabrishot** to modpack
 
 **⬇️Other changes:**
 - Add config for **Fabrishot** from my EOL Modpack
