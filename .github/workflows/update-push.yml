@@ -16,7 +16,7 @@ jobs:
                 latest: true
                 tarBall: false
                 zipBall: false
-                preRelease: false
+                preRelease: true
 
             - name: Publish to Curseforge
               uses: Kir-Antipov/mc-publish@v3.3
@@ -41,7 +41,7 @@ jobs:
                 latest: true
                 tarBall: false
                 zipBall: false
-                preRelease: false
+                preRelease: true
 
             - name: Publish to Modrinth
               uses: Kir-Antipov/mc-publish@v3.3

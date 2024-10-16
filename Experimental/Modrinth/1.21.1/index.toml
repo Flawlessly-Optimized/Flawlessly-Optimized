@@ -5,12 +5,12 @@ file = "config/fabric_loader_dependencies.json"
 hash = "02337b27909ffbf6f83fd3c60b1403ec115570de9271ccc347a6b14916a516f9"
 
 [[files]]
-file = "config/isxander-main-menu-credits.json"
-hash = "757c9d5fd956715b82807c7945dbb90f893cc471c3dd3c2894ced1c6a5b3ab3e"
+file = "config/fabrishot.properties"
+hash = "889fc56ed6e7b74633c0b31fecff9c0e790e51c6a3bd8596a21fbf0be5069073"
 
 [[files]]
-file = "config/modmenu.json"
-hash = "f567c383882e1267c38a18e844a497e95500a9e06c9e7f679b19f8c9c662d118"
+file = "config/isxander-main-menu-credits.json"
+hash = "c34e688f0667ec36cc3216b0d6c624f2fd24f558a93448b74b3d42dabdc59b3b"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -73,6 +73,10 @@ file = "config/yosbr/config/fabric_loader_dependencies.json"
 hash = "02337b27909ffbf6f83fd3c60b1403ec115570de9271ccc347a6b14916a516f9"
 
 [[files]]
+file = "config/yosbr/config/fabrishot.properties"
+hash = "889fc56ed6e7b74633c0b31fecff9c0e790e51c6a3bd8596a21fbf0be5069073"
+
+[[files]]
 file = "config/yosbr/config/fastquit.toml"
 hash = "84bd564b7a3410964f1715c6cf66dbbd8f373cd4a1e780479973fc5fbda5c6d0"
 
@@ -90,7 +94,7 @@ hash = "e553ecb727e562a41c4b6867bbec467c8248f9564364a03d2dd3b9be89a7c19c"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "757c9d5fd956715b82807c7945dbb90f893cc471c3dd3c2894ced1c6a5b3ab3e"
+hash = "c34e688f0667ec36cc3216b0d6c624f2fd24f558a93448b74b3d42dabdc59b3b"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -134,7 +138,7 @@ hash = "589959a2666d8611845e871dd86c51976236aed058fc2bfc6823ce2aa647c440"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "2d8567ee5a8e6654c3703084872206c815215ba62461c357881ff00b42276fc5"
+hash = "609628f31faaac83a5da5b58e8f91d98db9b58c5787014e0d8bcf72c8de7acbd"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -213,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f79a3cdea893a12fa0955186df68681016f5b98d94d31e8ea59fa250465578f6"
+hash = "dd5fd2a9a1237239586b6d286b55eaf43c84e080f2491a9be64efa3ea4bd7902"
 metafile = true
 
 [[files]]
@@ -229,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "c78c2d26feb460adb112cda9ec5073f8968298f1d215eb8679fd67f55f3c3124"
+metafile = true
+
+[[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "b062d71c371b3361e700edb4db46acd1a1feed6c91b95764e08e03cdb25ba1f5"
 metafile = true
 
 [[files]]
@@ -288,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "a3753e729d72f1f51022380efd645a205d50b23f69e435385efbe1849e8cda7f"
+hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
 metafile = true
 
 [[files]]
@@ -318,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "74c889c8b55ab42db6c9a0d990583c93bf90c8f4fab84b0b758e4d37e31d1f2e"
+hash = "e8f78a6d8786e286d6798f488ed46cdc1e93771728b166d7b5185261240640f9"
 metafile = true
 
 [[files]]
@@ -329,11 +338,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "c7b00c2657fd545091480fbc7e48a2fe4be6e2bbe0711843a0328c969b0b7d97"
-metafile = true
-
-[[files]]
-file = "mods/resolutioncontrol3.pw.toml"
-hash = "3cd6537b34fe2375abdf1186ae90d857356158e4beb6f0fb2258991a76053c87"
 metafile = true
 
 [[files]]

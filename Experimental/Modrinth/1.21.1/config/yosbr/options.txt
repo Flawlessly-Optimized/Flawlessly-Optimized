@@ -29,4 +29,4 @@ key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_iris.keybind.wireframe:key.keyboard.unknown
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
-key_key.resolutioncontrol.screenshot:key.keyboard.f9
+key_key.fabrishot.screenshot:key.keyboard.f9
