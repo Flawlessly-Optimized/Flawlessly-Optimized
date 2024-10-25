@@ -1,5 +1,19 @@
 # Changelog
 
+## 1.21.3
+
+### 1.0.0-alpha (25/10/24)
+
+**🔄Updated mods:**
+- **Iris Shaders,Remove Reloading Screen,Fabrishot,Zoomify,LambDynamicLights,Your Options Shall Be Respected (YOSBR),BadOptimizations,FastQuit,MixinTrace,Sodium,BetterGrassify,Dynamic FPS,More Chat History,Mod Menu,More Culling,ImmediatelyFast,Main Menu Credits,Capes,Model Gap Fix and other API**
+- **Removed Indium - longer necessary due now from box support Sodium 0.6**
+
+**♻️Replaced mods:**
+- **Added Concentration to replace temporarily Cubes Without Borders**
+
+**❌Missing mods:**
+- [EMF] Entity Model Features,[ETF] Entity Texture Features,Animatica, Better Mount HUD,CIT Resewn,Continuity,Cubes Without Borders,Debugify,Enhanced Block Entities,Entity Culling,FabricSkyboxes,FabricSkyBoxes Interop,FerriteCore,Language Reload,Lithium,ModernFix,No Chat Reports,Noisium,Nvidium,OptiGUI,Polytone,Reese's Sodium Options,Sodium Extra
+
 ## 1.21.1
 
 ### 1.2.1 (15/10/24)

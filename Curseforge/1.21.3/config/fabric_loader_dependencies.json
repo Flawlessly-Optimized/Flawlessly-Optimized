@@ -1,0 +1,19 @@
+{
+    "version": 1,
+    "overrides": {
+      "fabricloader": {
+        "+depends": {
+          "fabricloader": ">=0.16.7"
+        }
+      },
+      "dynamic_fps": {
+        "recommends": {}
+      },
+      "lambdynlights": {
+        "recommends": {}
+      },
+      "polytone": {
+        "conflicts": {}
+      }
+  }
+}
