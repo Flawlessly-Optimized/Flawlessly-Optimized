@@ -2,6 +2,15 @@
 
 ## 1.21.3
 
+### 1.1.1-alpha (26/10/24)
+
+**🔄Updated mods:**
+ - **Fabric API**
+ - **Returned mods: [ETF] Entity Texture Features,[EMF] Entity Model Features,OptiGUI**
+
+**❌Missing mods:**
+- **Animatica, Better Mount HUD,CIT Resewn,Continuity,Cubes Without Borders,Debugify,Enhanced Block Entities,Entity Culling,FabricSkyboxes,FabricSkyBoxes Interop,FerriteCore,Language Reload,Lithium,ModernFix,No Chat Reports,Noisium,Nvidium,Polytone,Reese's Sodium Options,Sodium Extra**
+
 ### 1.0.0-alpha (25/10/24)
 
 **🔄Updated mods:**
@@ -12,7 +21,7 @@
 - **Added Concentration to replace temporarily Cubes Without Borders**
 
 **❌Missing mods:**
-- [EMF] Entity Model Features,[ETF] Entity Texture Features,Animatica, Better Mount HUD,CIT Resewn,Continuity,Cubes Without Borders,Debugify,Enhanced Block Entities,Entity Culling,FabricSkyboxes,FabricSkyBoxes Interop,FerriteCore,Language Reload,Lithium,ModernFix,No Chat Reports,Noisium,Nvidium,OptiGUI,Polytone,Reese's Sodium Options,Sodium Extra
+- **[EMF] Entity Model Features,[ETF] Entity Texture Features,Animatica, Better Mount HUD,CIT Resewn,Continuity,Cubes Without Borders,Debugify,Enhanced Block Entities,Entity Culling,FabricSkyboxes,FabricSkyBoxes Interop,FerriteCore,Language Reload,Lithium,ModernFix,No Chat Reports,Noisium,Nvidium,OptiGUI,Polytone,Reese's Sodium Options,Sodium Extra**
 
 ## 1.21.1
 

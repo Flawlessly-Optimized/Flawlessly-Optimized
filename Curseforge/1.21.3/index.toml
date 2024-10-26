@@ -6,7 +6,7 @@ hash = "02337b27909ffbf6f83fd3c60b1403ec115570de9271ccc347a6b14916a516f9"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "1e9d927180e78edd195a722c0e033fd459aa9bb219178190cb9c518f4b4475f1"
+hash = "554afc833c2278d465d98ef66ae9530739d0bc297a07aa07e807eac749ba49e5"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -90,7 +90,7 @@ hash = "e553ecb727e562a41c4b6867bbec467c8248f9564364a03d2dd3b9be89a7c19c"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "1e9d927180e78edd195a722c0e033fd459aa9bb219178190cb9c518f4b4475f1"
+hash = "554afc833c2278d465d98ef66ae9530739d0bc297a07aa07e807eac749ba49e5"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -167,8 +167,18 @@ hash = "f3fe40165420945c3846f4a15ce16efd73f788690180518510aebcc5ef9f825e"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "3b9dabd6849f5b351590d68a54be359eb14cccace7f13846f16a0c2f72ea2a18"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "2cbf5f2a1247a6677b181aac3f41c9db07c425b7a9807c8b1ff0430bd0c5036b"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ba446f38a5efbb8b8fd37dd6814e437bd83543dfa9e250907cfd280ad51507c6"
+hash = "2597d26c8f622fbdc2628a686258c39edd7fea0368282a6f6dcd4667ab39f03c"
 metafile = true
 
 [[files]]
@@ -229,6 +239,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "362f79b22e4bfae8700a27556bd20a4718ade700e16424c367089b241b8c9f80"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "d4e1417fa602f63d09d9c0b28ca60bf38f9a5541e73d522a082a6c6f5b04c36b"
 metafile = true
 
 [[files]]
