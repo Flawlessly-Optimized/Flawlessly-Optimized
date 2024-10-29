@@ -2,6 +2,21 @@
 
 ## 1.21.3
 
+### 1.2.1-alpha (29/10/24)
+
+**🔄Updated mods:**
+- **More Culling,Sodium,LambDynamicLights**
+- **Returned mods: Sodium Extra,Reese's Sodium Options,FerriteCore,Language Reload,No Chat Reports,Cubes Without Borders**
+
+**♻️Replaced mods:**
+- The **Concentration** mod has been removed in favor of the **Cubes Without Borders** mod
+
+**⬇️Other changes:**
+- Fabric Loader updated to version 0.16.7 and enforced
+
+**❌Missing mods:**
+- **Animatica, Better Mount HUD,CIT Resewn,Continuity,Debugify,Enhanced Block Entities,Entity Culling,FabricSkyboxes,FabricSkyBoxes Interop,Lithium,ModernFix,Noisium,Nvidium,Polytone**
+
 ### 1.1.1-alpha (26/10/24)
 
 **🔄Updated mods:**

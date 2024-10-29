@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "02337b27909ffbf6f83fd3c60b1403ec115570de9271ccc347a6b14916a516f9"
+hash = "503adac1f2c9ed153f2f18770ee0da10154218caa1bc729d6805aadb769825f9"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "554afc833c2278d465d98ef66ae9530739d0bc297a07aa07e807eac749ba49e5"
+hash = "181ee74e6eb3478b455072f261c8838d80bbef724223f7263e4d69ffdb7ab1e2"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -66,7 +66,7 @@ hash = "7e30147e41c4ec54007a0e6fddf4524d029617035777a4d99d872183b29a5a24"
 
 [[files]]
 file = "config/yosbr/config/fabric_loader_dependencies.json"
-hash = "02337b27909ffbf6f83fd3c60b1403ec115570de9271ccc347a6b14916a516f9"
+hash = "503adac1f2c9ed153f2f18770ee0da10154218caa1bc729d6805aadb769825f9"
 
 [[files]]
 file = "config/yosbr/config/fabrishot.properties"
@@ -90,7 +90,7 @@ hash = "e553ecb727e562a41c4b6867bbec467c8248f9564364a03d2dd3b9be89a7c19c"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "554afc833c2278d465d98ef66ae9530739d0bc297a07aa07e807eac749ba49e5"
+hash = "181ee74e6eb3478b455072f261c8838d80bbef724223f7263e4d69ffdb7ab1e2"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -157,8 +157,8 @@ hash = "f98790320a1cb09f3acf4f02f8e748dde9d0b196d1db16c696a4dcf56cf91133"
 metafile = true
 
 [[files]]
-file = "mods/concentration.pw.toml"
-hash = "9ad73507b8cbb7444805a6f0e06f3d1adae75dd3169dc47b1e541c7de2742f12"
+file = "mods/cubes-without-borders.pw.toml"
+hash = "a65c7114e3d56277e74f4426ca5b9a76e0d910daa3abd1a093d72893ad2ddf6d"
 metafile = true
 
 [[files]]
@@ -197,6 +197,11 @@ hash = "9a53d0956a5f25c6c5de1d34a6497c2d323486bf340935db6b364815aae596be"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore-fabric.pw.toml"
+hash = "e355f5d23c8b7c0ece9f3097c589888f26219b29ddacd00212e750ee381497de"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "e7ea95706fe2deea8b35e6bd2e9a1907bbf980d820318c22f2704a02812f08a1"
 metafile = true
@@ -208,7 +213,12 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "c3c2b6953e55e7539525cfe8e4dcaee03e5d653497a73c47f42e67de211e4c9b"
+hash = "985e9a933de8459ea7593d5387d5c18ff4409543663adf7dac4eec3fddfd3945"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+hash = "12b76023b57ca9795dd439c6984128c497406acd2ef7058ca133b40440d56ecd"
 metafile = true
 
 [[files]]
@@ -238,7 +248,12 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "362f79b22e4bfae8700a27556bd20a4718ade700e16424c367089b241b8c9f80"
+hash = "dda99d245c7db7215c307ff0a4e88bf4d77e64e028566d5dccb8229577f40d90"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "7f6ac1f0ba165844744226d98c5b5498c0f41b3fcac3889fbb23f546eafd5c0a"
 metafile = true
 
 [[files]]
@@ -247,13 +262,23 @@ hash = "d4e1417fa602f63d09d9c0b28ca60bf38f9a5541e73d522a082a6c6f5b04c36b"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "89d038617883ecfaee0ad5c1ce3a0f7f38f9ed7674b32e0b42dd51acca0d8711"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "75b9d5b933490a2b7008065621c600bb720dccfb8f705201cfaa50fb94733980"
 metafile = true
 
 [[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "31604345d6bca6a93fff44a4342f92e76163a0fb308245fe4f826f3dea206796"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
-hash = "4053c5ad6b0301a586106b15139ede4e92472036434119fd4e42d6fa665311b2"
+hash = "57397a19fe635e96f583b3af905d4f3aca16e75feab52fc65501636438eff1fe"
 metafile = true
 
 [[files]]
