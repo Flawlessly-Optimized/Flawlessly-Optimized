@@ -2,6 +2,18 @@
 
 ## 1.21.3
 
+### 1.3.1-alpha (02/11/24)
+
+**🔄Updated mods:**
+- **ImmediatelyFast,BetterGrassify,Dynamic FPS**
+- **Returned mods: Entity Culling,Polytone**
+
+**⬇️Other changes:**
+- Fabric Loader updated to version 0.16.9 and enforced
+
+**❌Missing mods:**
+- **Animatica, Better Mount HUD,CIT Resewn,Continuity,Debugify,Enhanced Block Entities,FabricSkyboxes,FabricSkyBoxes Interop,Lithium,ModernFix,Noisium,Nvidium**
+
 ### 1.2.1-alpha (29/10/24)
 
 **🔄Updated mods:**
@@ -12,7 +24,7 @@
 - The **Concentration** mod has been removed in favor of the **Cubes Without Borders** mod
 
 **⬇️Other changes:**
-- Fabric Loader updated to version 0.16.7 and enforced
+- Fabric Loader updated to version 0.16.8 and enforced
 
 **❌Missing mods:**
 - **Animatica, Better Mount HUD,CIT Resewn,Continuity,Debugify,Enhanced Block Entities,Entity Culling,FabricSkyboxes,FabricSkyBoxes Interop,Lithium,ModernFix,Noisium,Nvidium,Polytone**

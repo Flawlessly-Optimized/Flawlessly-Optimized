@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "503adac1f2c9ed153f2f18770ee0da10154218caa1bc729d6805aadb769825f9"
+hash = "8fba7a404c365a9fe45b74a7b244cc332976dcacc0fa7fcda2e9857c8f194c42"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "181ee74e6eb3478b455072f261c8838d80bbef724223f7263e4d69ffdb7ab1e2"
+hash = "c9c31ce40f449bdc20635c1b0fe502366a54596ef9fd7a83e09cd6ff12249714"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -66,7 +66,7 @@ hash = "7e30147e41c4ec54007a0e6fddf4524d029617035777a4d99d872183b29a5a24"
 
 [[files]]
 file = "config/yosbr/config/fabric_loader_dependencies.json"
-hash = "503adac1f2c9ed153f2f18770ee0da10154218caa1bc729d6805aadb769825f9"
+hash = "8fba7a404c365a9fe45b74a7b244cc332976dcacc0fa7fcda2e9857c8f194c42"
 
 [[files]]
 file = "config/yosbr/config/fabrishot.properties"
@@ -90,7 +90,7 @@ hash = "e553ecb727e562a41c4b6867bbec467c8248f9564364a03d2dd3b9be89a7c19c"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "181ee74e6eb3478b455072f261c8838d80bbef724223f7263e4d69ffdb7ab1e2"
+hash = "c9c31ce40f449bdc20635c1b0fe502366a54596ef9fd7a83e09cd6ff12249714"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -177,6 +177,11 @@ hash = "2cbf5f2a1247a6677b181aac3f41c9db07c425b7a9807c8b1ff0430bd0c5036b"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "520fe1174b2b1ee225bf1cba2bbcacb1ef00d131c250d8ef57290e62f51f49ea"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "2597d26c8f622fbdc2628a686258c39edd7fea0368282a6f6dcd4667ab39f03c"
 metafile = true
@@ -259,6 +264,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "d4e1417fa602f63d09d9c0b28ca60bf38f9a5541e73d522a082a6c6f5b04c36b"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "a729aee8014bd5522c8fc06213dd0b080b47241925d849d149b54b8eeb921d20"
 metafile = true
 
 [[files]]
