@@ -6,7 +6,7 @@ hash = "8fba7a404c365a9fe45b74a7b244cc332976dcacc0fa7fcda2e9857c8f194c42"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c9c31ce40f449bdc20635c1b0fe502366a54596ef9fd7a83e09cd6ff12249714"
+hash = "84dd70c887ebf914f8ead64745d8989730e78e77e0524b0ea9216b847584e16f"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -90,7 +90,7 @@ hash = "e553ecb727e562a41c4b6867bbec467c8248f9564364a03d2dd3b9be89a7c19c"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "c9c31ce40f449bdc20635c1b0fe502366a54596ef9fd7a83e09cd6ff12249714"
+hash = "84dd70c887ebf914f8ead64745d8989730e78e77e0524b0ea9216b847584e16f"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "9a3ca3e85e3bf04501f344293a0130a5c2d83477ee223c08a57a9e0da1a3f64a"
+hash = "7a63cfcf9a62956616a86b25e2d2c2bacc447b130294a87303575dc4eb415b3a"
 metafile = true
 
 [[files]]
@@ -163,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "f3fe40165420945c3846f4a15ce16efd73f788690180518510aebcc5ef9f825e"
+hash = "3a70039ca9aab299619c38c5275518d345a6ed3a4325b956d6dec62c737b9f5d"
 metafile = true
 
 [[files]]
@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "2cbf5f2a1247a6677b181aac3f41c9db07c425b7a9807c8b1ff0430bd0c5036b"
+hash = "af5323b8d59c5d93bacf7c0ea46b9a6bc1b8b51ecb2ca5973538d5d87049675d"
 metafile = true
 
 [[files]]
@@ -192,11 +192,6 @@ hash = "987c02c2f31875d512336cccc2f5a9d8bbbb60337a9256fd632f6de25a3c3d62"
 metafile = true
 
 [[files]]
-file = "mods/fabrishot.pw.toml"
-hash = "2f7af5a78203cdef9cff4d980091afbf5ded95a9ccf24dc9cfc2989c482cfe81"
-metafile = true
-
-[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "9a53d0956a5f25c6c5de1d34a6497c2d323486bf340935db6b364815aae596be"
 metafile = true
@@ -208,12 +203,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "e7ea95706fe2deea8b35e6bd2e9a1907bbf980d820318c22f2704a02812f08a1"
+hash = "56d4cb8545571d91f43e6b7c6c60b4db10d6344c6ae3aa3669e1e6552bcc8e8d"
 metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "d2261eb9aa17491fc8e37eab9c445e145d06fd24e98f2297141191383b5b53b2"
+hash = "8f284914a501a968e4c0843836dca4584f3d1ffc95b973075f4b3df3880c30e1"
 metafile = true
 
 [[files]]
@@ -257,8 +252,8 @@ hash = "dda99d245c7db7215c307ff0a4e88bf4d77e64e028566d5dccb8229577f40d90"
 metafile = true
 
 [[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "7f6ac1f0ba165844744226d98c5b5498c0f41b3fcac3889fbb23f546eafd5c0a"
+file = "mods/noisium.pw.toml"
+hash = "a5c950f53416fd0d794b554cec32de277af5be6826a48808ac7359b713baabd1"
 metafile = true
 
 [[files]]
@@ -269,6 +264,11 @@ metafile = true
 [[files]]
 file = "mods/polytone.pw.toml"
 hash = "a729aee8014bd5522c8fc06213dd0b080b47241925d849d149b54b8eeb921d20"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "fd4dd7034f219a15232fccaad5c24569a3638c24cfa0c97a7f63eb463317e50b"
 metafile = true
 
 [[files]]

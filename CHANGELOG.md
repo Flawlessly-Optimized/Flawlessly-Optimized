@@ -2,6 +2,19 @@
 
 ## 1.21.3
 
+### 1.4.1-alpha (06/11/24)
+
+**🔄Updated mods:**
+- **Dynamic FPS,Entity Texture Features,BetterGrassify,ImmediatelyFast,Iris Shaders**
+- Re-add mods: **Noisium,Puzzle**
+
+**♻️Replaced mods:**
+- Temporarily remove **Fabrishot** (Bug when trying make 4K screenshot)
+- Temporarily remove **No Chat Reports** (Bug in current and incompatibility in previous version)
+
+**❌Missing mods:**
+- **Animatica, Better Mount HUD,CIT Resewn,Continuity,Debugify,Enhanced Block Entities,FabricSkyboxes,FabricSkyBoxes Interop,Lithium,ModernFix,No Chat Reports,Nvidium**
+
 ### 1.3.1-alpha (02/11/24)
 
 **🔄Updated mods:**
@@ -12,7 +25,7 @@
 - Fabric Loader updated to version 0.16.9 and enforced
 
 **❌Missing mods:**
-- **Animatica, Better Mount HUD,CIT Resewn,Continuity,Debugify,Enhanced Block Entities,FabricSkyboxes,FabricSkyBoxes Interop,Lithium,ModernFix,Noisium,Nvidium**
+- **Animatica, Better Mount HUD,CIT Resewn,Continuity,Debugify,Enhanced Block Entities,FabricSkyboxes,FabricSkyBoxes Interop,Fabrishot,Lithium,ModernFix,Noisium,Nvidium**
 
 ### 1.2.1-alpha (29/10/24)
 
