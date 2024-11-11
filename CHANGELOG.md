@@ -2,6 +2,20 @@
 
 ## 1.21.3
 
+### 1.5.1-beta (11/11/24)
+
+**🔄Updated mods:**
+- **More Culling,Fabric API,Iris Shaders,Remove Reloading Screen**
+- Re-add mods: **Lithium,[ModernFix](https://github.com/embeddedt/ModernFix/actions/runs/11673383243)** (Build from Github)
+- Returned **No Chat Reports** (Fixed Bug with network protocol)
+
+**⬇️Other changes:**
+- Config BadOptimizations `lightmap_time_change_needed_for_update 80 > 20`
+- Modpack for 1.21.3 moved to Beta 
+
+**❌Missing mods:**
+- **Animatica, Better Mount HUD,CIT Resewn,Continuity,Debugify,Enhanced Block Entities,FabricSkyboxes,FabricSkyBoxes Interop,Nvidium**
+
 ### 1.4.1-alpha (06/11/24)
 
 **🔄Updated mods:**

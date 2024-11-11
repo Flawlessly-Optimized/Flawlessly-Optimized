@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/badoptimizations.txt"
+hash = "129405784405667b1b0abfa2701d349927e9800314fba47dd0acf9a5138bba92"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "8fba7a404c365a9fe45b74a7b244cc332976dcacc0fa7fcda2e9857c8f194c42"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "84dd70c887ebf914f8ead64745d8989730e78e77e0524b0ea9216b847584e16f"
+hash = "d00f5d7396c581ecd9c6f7b2441bbb43301b072687e3cc611df4ee625981f4e1"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -30,7 +34,7 @@ hash = "f0decb31d974351dd9337caf02320d22470adec6b96411bb84596cdc73d77dac"
 
 [[files]]
 file = "config/yosbr/config/badoptimizations.txt"
-hash = "baad8b038ffb20da0340963b8918b9bc196e9c6ea72b06b3f13a5e94ddb536e6"
+hash = "129405784405667b1b0abfa2701d349927e9800314fba47dd0acf9a5138bba92"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -90,7 +94,7 @@ hash = "e553ecb727e562a41c4b6867bbec467c8248f9564364a03d2dd3b9be89a7c19c"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "84dd70c887ebf914f8ead64745d8989730e78e77e0524b0ea9216b847584e16f"
+hash = "d00f5d7396c581ecd9c6f7b2441bbb43301b072687e3cc611df4ee625981f4e1"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -183,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2597d26c8f622fbdc2628a686258c39edd7fea0368282a6f6dcd4667ab39f03c"
+hash = "0bf4348dd3eb62415a50151c61720ab5ef4f5336a9877c76d995f7b9995a1172"
 metafile = true
 
 [[files]]
@@ -208,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "8f284914a501a968e4c0843836dca4584f3d1ffc95b973075f4b3df3880c30e1"
+hash = "3bb59a9526d9b2f1e60002bff737cb83e3a05afea22bb6b2f2eeee2abc99a2b4"
 metafile = true
 
 [[files]]
@@ -219,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "12b76023b57ca9795dd439c6984128c497406acd2ef7058ca133b40440d56ecd"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "386576cf5f09fb169b3fb7f4b973ed4c06aa31be149afdcfcd99eb38cc834e30"
 metafile = true
 
 [[files]]
@@ -237,6 +246,10 @@ hash = "1c96dae7535482219f75babe4e6e9b1ff834cf4318ecf6018fd0d5dbdd820456"
 metafile = true
 
 [[files]]
+file = "mods/modernfix-fabric-5.19.5-beta.18+mc1.21.3.103d.jar"
+hash = "e3973a8b93d1f426c0964c5debdcdce92c2dce980d2b7716375743144fac5f2b"
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "b48263b924cf65211ffa2021fb849e66405e51140eecbe44f51337a741d1d434"
 metafile = true
@@ -248,7 +261,12 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "dda99d245c7db7215c307ff0a4e88bf4d77e64e028566d5dccb8229577f40d90"
+hash = "97aaea9e10c9ae6221476f28f56fd38c8cf9b4133e9d761ce18b48ec354f6df2"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "d8a7f4537e7a8d0621618f44cb596d084c4ee26e573c56846e72248d6bb65aa7"
 metafile = true
 
 [[files]]
@@ -278,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "75b9d5b933490a2b7008065621c600bb720dccfb8f705201cfaa50fb94733980"
+hash = "8c0eb7220eb278661a3c4b361a4f1c757ef2c6716ebcb5f585f0319ae5cf0cd9"
 metafile = true
 
 [[files]]
