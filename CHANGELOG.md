@@ -79,6 +79,17 @@
 
 ## 1.21.1
 
+### 1.2.2 (15/11/24)
+
+**🔄Updated mods:**
+- **FerriteCore,Zoomify,CIT Resewn,Fabric API,No Chat Reports,Language Reload,BadOptimizations,ModernFix,Entity Culling,Entity Texture Features,LambDynamicLights,YetAnotherConfigLib,ImmediatelyFast,Dynamic FPS**
+- Skipped update **Lithium** and **Cubes Without Borders**
+- Update Sodium 0.6 skipped only in Modpack version for 1.21.3
+
+**⬇️Other changes:**
+- Fabric Loader updated to version 0.16.9 and enforced
+- Config BadOptimizations `lightmap_time_change_needed_for_update 80 > 20`
+
 ### 1.2.1 (15/10/24)
 
 **🔄Updated mods:**
