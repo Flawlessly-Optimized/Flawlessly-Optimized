@@ -1,16 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/badoptimizations.txt"
-hash = "129405784405667b1b0abfa2701d349927e9800314fba47dd0acf9a5138bba92"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "8fba7a404c365a9fe45b74a7b244cc332976dcacc0fa7fcda2e9857c8f194c42"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d00f5d7396c581ecd9c6f7b2441bbb43301b072687e3cc611df4ee625981f4e1"
+hash = "466991a8bf8ddca76b6fcdd55f164742dc6f83cdb8032b0742f02bbf18414f87"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -94,7 +90,7 @@ hash = "e553ecb727e562a41c4b6867bbec467c8248f9564364a03d2dd3b9be89a7c19c"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "d00f5d7396c581ecd9c6f7b2441bbb43301b072687e3cc611df4ee625981f4e1"
+hash = "466991a8bf8ddca76b6fcdd55f164742dc6f83cdb8032b0742f02bbf18414f87"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -172,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "c2210a58773af364184cb114d27c53412c9f1d2df31d39d38a80a3883252ad54"
+hash = "8c30705e816f74aac2899e6ee7ac5e7eb096915e2572f158b1396d99fa40517b"
 metafile = true
 
 [[files]]
@@ -187,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6424d0bd607f839372a3da21e53604cd1554a8289348f987c850a1fc01e8b5c7"
+hash = "0abc7ac235d62020bebff5318073b581fa3c8c624f69577c619cf737fa1afd54"
 metafile = true
 
 [[files]]
@@ -206,13 +202,18 @@ hash = "bfd0e9e0e3ba950e458caf9687e2ebbf0a3c4e1f2f97259a25242f5649e808a9"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "1989dfcc9c89cad6ee99095b16fdaf4ad22dc6789464839e3e175a401b367496"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "ef269caaa262a2239c2c89d93f8f52aed1b75504e4e10408d802e962853fd2f3"
+hash = "a1a78f3b18ebdb5708069fe120f7b61ad4dabbf2fc3cde69fd5dc52c206cfbce"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "2ce5cc0ad6076c948c14ebef6c507438737ef985934352a0dd5d5bd9104a82fc"
+hash = "f081dddf8283dd5ba0db0bac8f438f4ce645b9beda391e901f27bbf2f5890d25"
 metafile = true
 
 [[files]]
@@ -227,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "9b29ae99d79593df0ca70661e04a96f5e871ef631d703216f6a1c3aec61b9c12"
+hash = "92fa35a4712bf3ef1220d4d5d5542dfdb18fef07d04044aee03781e76aada1ee"
 metafile = true
 
 [[files]]
@@ -281,22 +282,22 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "00029b4f6debd8b7d171878f9b10bc2152ae33b97556e2d4a2e1c2c55089c88d"
+hash = "375ae78c4e4cb43a9a172f6866de6011d4d01eaaede76d23a38a157663e43ff2"
 metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "7161b663ce9e37f51c84c6d63893fa2643f8ecd5572c3b3d68238cfaa7690f2a"
+hash = "90cfe4486ff6940fe58906be66f18348928e407ce3b82cd7fec9421feb18529a"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "bdb16cce136637226fa69baa67809dabff8a9ae950e29bf093915795da52f720"
+hash = "a18faac8593412b5ef8ee28bf49ebf7fcb16197aa4d2396dd0684b7defeb0b59"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "0720b9be77b12ad08c6b41bfaef416d3405600aadd7a0f1078df1517eb9cd5cb"
+hash = "cd921a70bb9cede4a5b6bada6d9e924c6afdf8926f912f3b04c5e9d4cdbf34e1"
 metafile = true
 
 [[files]]

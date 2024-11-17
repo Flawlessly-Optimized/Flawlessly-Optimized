@@ -1,12 +1,12 @@
 name = "Flawlessly Optimized"
 author = "chizusrevenge"
-version = "1.5.1-beta"
+version = "1.5.2-beta"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "56560937c0b306ccd8d4df1e377aab38ce38784c4ea978c5e868bf0828330b0e"
+hash = "b7aa8340465c7a33521cfde0e7fbb9492d17bb3bc6a1b121800ec2759b61050e"
 
 [versions]
 fabric = "0.16.9"

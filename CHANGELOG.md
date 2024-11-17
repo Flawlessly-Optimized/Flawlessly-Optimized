@@ -2,6 +2,15 @@
 
 ## 1.21.3
 
+### 1.5.2-beta (17/11/24)
+
+**🔄Updated mods:**
+- **Sodium Extra,Entity Model Features,Sodium,Reese's Sodium Options,ImmediatelyFast,Lithium,Fabric API,Iris Shaders,Remove Reloading Screen**
+- Added **Forge Config API Port** (dependency of **Remove Reloading Screen**)
+
+**❌Missing mods:**
+- **Animatica, Better Mount HUD,CIT Resewn,Continuity,Debugify,Enhanced Block Entities,FabricSkyboxes,FabricSkyBoxes Interop,Nvidium**
+
 ### 1.5.1-beta (11/11/24)
 
 **🔄Updated mods:**
