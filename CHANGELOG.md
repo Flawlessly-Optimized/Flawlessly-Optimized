@@ -2,6 +2,18 @@
 
 ## 1.21.3
 
+### 1.6.1-beta (22/11/24)
+
+**🔄Updated mods:**
+- **Entity Texture Features,Fabric API,BetterGrassify,More Culling,Polytone**
+- Re-add **Debugify**
+
+**⬇️Other changes:**
+- Config **Remove Reloading Screen** has been changed because of the new api. All settings that were in the old api are now in the new one. Delete the `rrls.toml` file if the default settings are set.
+
+**❌Missing mods:**
+- **Animatica, Better Mount HUD,CIT Resewn,Continuity,Enhanced Block Entities,FabricSkyboxes,FabricSkyBoxes Interop,Nvidium**
+
 ### 1.5.2-beta (17/11/24)
 
 **🔄Updated mods:**

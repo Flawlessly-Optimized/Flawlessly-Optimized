@@ -1,13 +1,16 @@
-hideOverlays = "RELOADING"
-rgbProgress = false
-blockOverlay = false
-miniRender = true
-enableScissor = false
-type = "TEXT"
-reloadText = "Edit in config!"
-resetResources = false
-reInitScreen = true
-removeOverlayAtEnd = true
-earlyPackStatusSend = false
-doubleLoad = "FORCE_LOAD"
-animationSpeed = 500.0
+[global]
+	#Allowed Values: ALL, LOADING, RELOADING, NONE
+	hideOverlays = "RELOADING"
+
+[splash]
+	#Allowed Values: PROGRESS, TEXT, TEXT_WITH_BACKGROUND
+	type = "PROGRESS"
+	animationSpeed = 500.0
+
+[other]
+	earlyPackStatusSend = false
+	#Allowed Values: FORCE_LOAD, LOAD, NONE
+	doubleLoad = "FORCE_LOAD"
+
+[platform]
+	skipForgeOverlay = false
