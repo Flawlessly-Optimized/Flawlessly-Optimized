@@ -6,7 +6,7 @@ hash = "8fba7a404c365a9fe45b74a7b244cc332976dcacc0fa7fcda2e9857c8f194c42"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a810d1f05f9976e8f5bd36d74e131e1694a95562bca4490f1229ee694fa7f678"
+hash = "cafeeaa2e79d280ef93d266e7851c034e9f4a5a8b6479b2553949a2f513d6ddc"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -90,7 +90,7 @@ hash = "e553ecb727e562a41c4b6867bbec467c8248f9564364a03d2dd3b9be89a7c19c"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "a810d1f05f9976e8f5bd36d74e131e1694a95562bca4490f1229ee694fa7f678"
+hash = "cafeeaa2e79d280ef93d266e7851c034e9f4a5a8b6479b2553949a2f513d6ddc"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -250,10 +250,6 @@ metafile = true
 file = "mods/modelfix.pw.toml"
 hash = "d12b136e07f6f83a1e199aabe430426d19702c9f69e55731092b5d5c2f3fb69f"
 metafile = true
-
-[[files]]
-file = "mods/modernfix-fabric-5.19.5-beta.18+mc1.21.3.103d.jar"
-hash = "e3973a8b93d1f426c0964c5debdcdce92c2dce980d2b7716375743144fac5f2b"
 
 [[files]]
 file = "mods/modmenu.pw.toml"
