@@ -4,10 +4,10 @@
 
 ### 1.6.2-beta (22/11/24)
 
-⚠️This is fix for version of 1.6.1-beta
+⚠️This is hotfix for version of 1.6.1-beta
 
 **🔄Updated mods:**
-- Removed **ModernFix** until get stable version
+- Removed **ModernFix** until get stable version (The mod was temporarily removed due to the appearance of black-purple textures)
 
 ### 1.6.1-beta (22/11/24)
 
