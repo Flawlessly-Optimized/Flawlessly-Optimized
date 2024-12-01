@@ -2,6 +2,16 @@
 
 ## 1.21.3
 
+### 1.7.1-beta (01/12/24)
+
+**🔄Updated mods:**
+- LambDynamicLights,Fabric API,BetterGrassify,Fabric Language Kotlin
+- Re-add [Animatica](https://github.com/FoundationGames/Animatica/pull/62),[Enhanced Block Entities](https://github.com/FoundationGames/EnhancedBlockEntities/pull/262) (This Github Pull Request and ported by [Riflusso](https://github.com/Riflusso))
+   - If you have problems in the new version, please write [Github Issue](https://github.com/Flawlessly-Optimized/Flawlessly-Optimized)
+
+**⬇️Other changes:**
+- Fixed small problem in `rrls.toml` config where there was `PROGRESS` instead of `TEXT`
+
 ### 1.6.2-beta (22/11/24)
 
 ⚠️This is hotfix for version of 1.6.1-beta

@@ -6,7 +6,7 @@ hash = "8fba7a404c365a9fe45b74a7b244cc332976dcacc0fa7fcda2e9857c8f194c42"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "cafeeaa2e79d280ef93d266e7851c034e9f4a5a8b6479b2553949a2f513d6ddc"
+hash = "098cfe390f940d0c88f49c9a16587449c0f24476334bf42564e496c802162a8a"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -90,7 +90,7 @@ hash = "e553ecb727e562a41c4b6867bbec467c8248f9564364a03d2dd3b9be89a7c19c"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "cafeeaa2e79d280ef93d266e7851c034e9f4a5a8b6479b2553949a2f513d6ddc"
+hash = "098cfe390f940d0c88f49c9a16587449c0f24476334bf42564e496c802162a8a"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -122,7 +122,7 @@ hash = "21301f8bfa9a75f9f37e8f9f017dd91e659b29268ca4572569396a48d25b5539"
 
 [[files]]
 file = "config/yosbr/config/rrls.toml"
-hash = "d2dcbde2fd70508a9057a4bf822eadd336fbe6c9eeefb20b865245eb8fad2977"
+hash = "9a9e3b41d785782a4ed796472239fcca27cb7ef79648444f596679f7b70b9770"
 
 [[files]]
 file = "config/yosbr/config/ryoamiclights.toml"
@@ -137,13 +137,21 @@ file = "config/yosbr/options.txt"
 hash = "ca4fe236baac9d3485812c9802dd5a74c25eec22dd37fb45ce270bb277f739b5"
 
 [[files]]
+file = "mods/[Github-PR]animatica-0.6.1+1.21.2.jar"
+hash = "587860dda2f714c868b5f084421028816f42099ede6f7fd6155a22c14f17ceaa"
+
+[[files]]
+file = "mods/[Github-PR]enhancedblockentities-0.10.2+1.21.2.jar"
+hash = "70a9232012fcffddc4eddc2c77c41c5c629037d54dfa82b26155ed727a3937e6"
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "6281ff47d97ea490ca9ec6dc3094dc4c3b3b74eb778c28270a513d4e8f7715e2"
 metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "441bfb006883e32192a1d823872f7e6448363cdd164264903bd932610fc2b18b"
+hash = "27f9820bd3c9e88f9a01c570d1e95c612a13939adf247c64aed040c0e2495996"
 metafile = true
 
 [[files]]
@@ -188,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4e2e4003bbeddc4e7c55ccb973f3e03adef5c38659026ca4d3d72e418472c391"
+hash = "24f20d20729fe24d3fc1cbd8903baf123448bfe80b55f1895a0a3f0511e89c51"
 metafile = true
 
 [[files]]
@@ -223,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "985e9a933de8459ea7593d5387d5c18ff4409543663adf7dac4eec3fddfd3945"
+hash = "e535a62704eb8beaf409ae1e56673069cb7e7bc587ef6ae64b648a4b29674cb1"
 metafile = true
 
 [[files]]
