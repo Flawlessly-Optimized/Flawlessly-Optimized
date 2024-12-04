@@ -2,6 +2,13 @@
 
 ## 1.21.3
 
+### 1.7.2-beta (04/12/24)
+
+**🔄Updated mods:**
+- **ImmediatelyFast,BadOptimizations,Lithium,Sodium,Dynamic FPS,Mod Menu,Polytone,Iris Shaders**
+- Returned **FabriShot**
+- For Modrinth version forgot add mods **Puzzle** and **Noisium**
+
 ### 1.7.1-beta (01/12/24)
 
 **🔄Updated mods:**

@@ -6,7 +6,7 @@ hash = "8fba7a404c365a9fe45b74a7b244cc332976dcacc0fa7fcda2e9857c8f194c42"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "098cfe390f940d0c88f49c9a16587449c0f24476334bf42564e496c802162a8a"
+hash = "a5c2cf3d950d5c986522dfb1cc7466e70d5df2dc326d9453eebfa58b2d44f07e"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -90,7 +90,7 @@ hash = "e553ecb727e562a41c4b6867bbec467c8248f9564364a03d2dd3b9be89a7c19c"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "098cfe390f940d0c88f49c9a16587449c0f24476334bf42564e496c802162a8a"
+hash = "a5c2cf3d950d5c986522dfb1cc7466e70d5df2dc326d9453eebfa58b2d44f07e"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -146,7 +146,7 @@ hash = "70a9232012fcffddc4eddc2c77c41c5c629037d54dfa82b26155ed727a3937e6"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "f504ba087ee77ecd5a111e372eab535cddea4a7362f59902ccad72a6cb40ada2"
+hash = "2bb6c29a5574f67ad7f1b60bad7acfb91ec2aa8bbe5455d412dd7abb2542de61"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "0d8e3adfe182798fefea493226cdea7e40a3eaba5ffad556fd2f0e24909c3817"
+hash = "ef5594aca1039c06c502f9d3f4a709195b727abb3b2893652dfe38d983ff87c2"
 metafile = true
 
 [[files]]
@@ -205,6 +205,11 @@ hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
 metafile = true
 
 [[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "bcf893af157a78869ef9a72781bc5783383772d018ae2887515905f3fffcd65b"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "4387abb74dcfc93f9381c109fe76e7161ca7a91a1a642db4781b47f650c4ddab"
 metafile = true
@@ -221,12 +226,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a1a78f3b18ebdb5708069fe120f7b61ad4dabbf2fc3cde69fd5dc52c206cfbce"
+hash = "c79a98c5013dd8f1e219043aef5d77a969f9703455c5d4ca50e366ba943d0295"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "f081dddf8283dd5ba0db0bac8f438f4ce645b9beda391e901f27bbf2f5890d25"
+hash = "743e2829fd76c27c711c54b045880f64f9e67444c78476096fec18879c441764"
 metafile = true
 
 [[files]]
@@ -241,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "92fa35a4712bf3ef1220d4d5d5542dfdb18fef07d04044aee03781e76aada1ee"
+hash = "0d50516f7ba174f3bc8fb4c12e1200d82649ca5e3b3f42de408d420bfa13fd2d"
 metafile = true
 
 [[files]]
@@ -261,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "b1c44fce799dc98d07a3b5b28ea58ddb3ed19a16e5caffa1e736275aab026286"
+hash = "8df15e4c82204449bc611392e13ba20e6586e9be5aedc65260deead2de0b00f6"
 metafile = true
 
 [[files]]
@@ -280,13 +285,23 @@ hash = "477ee00ae9c0473f452c78a3191428a5758486c4e74955e0fc741481fc5dc14b"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "1d1edcd545d8ce0252488071aaa0d69fb7bfe9a937a21117f00e4b122f049ce3"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "1aa9d9b8c8af21f542883197014337a3746a5eaee3345639c5ab1c50781ddbe6"
 metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "fd22f5f9da296d9bd424515a60c8cdcd165664f0ad210d0efc24e0bc70170422"
+hash = "6cf5daa00ff062575ae08705c691ee1cefef4ad13591aa1f67474379a5f1d75d"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "2912afb1010c3ca055faa50056ce2adf233923bb6330e0802b7f552b1fadfc6c"
 metafile = true
 
 [[files]]
@@ -306,7 +321,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "cd921a70bb9cede4a5b6bada6d9e924c6afdf8926f912f3b04c5e9d4cdbf34e1"
+hash = "c6f6afe0d2c5bb33fe2308469775094432eb33b5e9140c1beaed51f7446002d2"
 metafile = true
 
 [[files]]
