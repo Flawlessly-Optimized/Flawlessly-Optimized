@@ -9,6 +9,9 @@
 - Returned **FabriShot**
 - For Modrinth version forgot add mods **Puzzle** and **Noisium**
 
+**❌Missing mods:**
+- **Better Mount HUD,CIT Resewn,Continuity,FabricSkyboxes,FabricSkyBoxes Interop,Nvidium**
+
 ### 1.7.1-beta (01/12/24)
 
 **🔄Updated mods:**
