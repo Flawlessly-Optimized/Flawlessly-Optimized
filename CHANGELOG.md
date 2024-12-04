@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.21.4
+
+### 1.0.0-alpha (04/12/24)
+
+**🔄Updated mods:**
+- **Entity Model Features,Entity Texture Features,BadOptimizations,Capes,Cubes Without Borders,Dynamic FPS,Entity Culling,FabriShot,ImmediatelyFast,Iris Shaders,Lithium,Main Menu Credits,MixinTrace,Mod Menu,Model Gap Fix,More Chat History,More Culling,No Chat Reports,Noisium,OptiGUI,Reese's Sodium Options,LambDynamicLights,Sodium,Sodium Extra,YOSBR,Zoomify**
+
+**⬇️Other changes:**
+- Mods **Noisium,Entity Culling** added to until get support for 1.21.4
+
+**❌Missing mods:**
+- **Animatica,Better Mount HUD,BetterGrassify,CIT Resewn,Continuity,Debugify,Enhanced Block Entities,FabricSkyboxes,FabricSkyBoxes Interop,FastQuit,FerriteCore,Language Reload,ModernFix,Nvidium,Polytone,Puzzle,Remove Reloading Screen**
+
 ## 1.21.3
 
 ### 1.7.2-beta (04/12/24)

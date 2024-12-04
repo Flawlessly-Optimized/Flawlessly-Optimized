@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "overrides": {
+    "fabricloader": {
+      "+depends": {
+        "fabricloader": ">=0.16.9"
+      }
+    },
+    "dynamic_fps": {
+      "recommends": {}
+    },
+    "lambdynlights": {
+      "recommends": {}
+    },
+    "polytone": {
+      "conflicts": {}
+    },
+    "noisium": {
+      "-depends": {
+        "minecraft": ""
+      }
+    },
+    "entityculling": {
+      "-depends": {
+        "minecraft": ""
+      }
+    }
+}
+}

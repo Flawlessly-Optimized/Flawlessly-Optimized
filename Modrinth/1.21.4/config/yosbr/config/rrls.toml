@@ -1,0 +1,16 @@
+[global]
+	#Allowed Values: ALL, LOADING, RELOADING, NONE
+	hideOverlays = "RELOADING"
+
+[splash]
+	#Allowed Values: PROGRESS, TEXT, TEXT_WITH_BACKGROUND
+	type = "TEXT"
+	animationSpeed = 500.0
+
+[other]
+	earlyPackStatusSend = false
+	#Allowed Values: FORCE_LOAD, LOAD, NONE
+	doubleLoad = "FORCE_LOAD"
+
+[platform]
+	skipForgeOverlay = false
