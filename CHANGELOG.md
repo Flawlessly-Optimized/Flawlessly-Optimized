@@ -8,7 +8,7 @@
 - **Entity Model Features,Entity Texture Features,BadOptimizations,Capes,Cubes Without Borders,Dynamic FPS,Entity Culling,FabriShot,ImmediatelyFast,Iris Shaders,Lithium,Main Menu Credits,MixinTrace,Mod Menu,Model Gap Fix,More Chat History,More Culling,No Chat Reports,Noisium,OptiGUI,Reese's Sodium Options,LambDynamicLights,Sodium,Sodium Extra,YOSBR,Zoomify**
 
 **⬇️Other changes:**
-- Mods **Noisium,Entity Culling** added to until get support for 1.21.4
+- Mods **Noisium,Entity Culling** added to dependencies until get support for 1.21.4
 - Don't forget to save your worlds I'm not responsible if they then don't work after this version
 
 **❌Missing mods:**
