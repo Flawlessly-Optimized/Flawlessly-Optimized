@@ -19,11 +19,6 @@
       "-depends": {
         "minecraft": ""
       }
-    },
-    "entityculling": {
-      "-depends": {
-        "minecraft": ""
-      }
     }
-}
+ }
 }

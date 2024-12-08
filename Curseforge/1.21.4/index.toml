@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "6049d308962a7a768186d5352ceefeb914b3d7e7784e6b7703dd03bdda4832d5"
+hash = "eda9b0ec7b432e982306c3f3bea844819b180695ac5c6d269a904a371ba8991f"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "1e9d927180e78edd195a722c0e033fd459aa9bb219178190cb9c518f4b4475f1"
+hash = "554afc833c2278d465d98ef66ae9530739d0bc297a07aa07e807eac749ba49e5"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -66,7 +66,7 @@ hash = "7e30147e41c4ec54007a0e6fddf4524d029617035777a4d99d872183b29a5a24"
 
 [[files]]
 file = "config/yosbr/config/fabric_loader_dependencies.json"
-hash = "6049d308962a7a768186d5352ceefeb914b3d7e7784e6b7703dd03bdda4832d5"
+hash = "eda9b0ec7b432e982306c3f3bea844819b180695ac5c6d269a904a371ba8991f"
 
 [[files]]
 file = "config/yosbr/config/fabrishot.properties"
@@ -90,7 +90,7 @@ hash = "e553ecb727e562a41c4b6867bbec467c8248f9564364a03d2dd3b9be89a7c19c"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "1e9d927180e78edd195a722c0e033fd459aa9bb219178190cb9c518f4b4475f1"
+hash = "554afc833c2278d465d98ef66ae9530739d0bc297a07aa07e807eac749ba49e5"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -142,13 +142,18 @@ hash = "917579175d05c4f9f35133cb0cf53b9e17c7db533455df812a128a5e50b852d2"
 metafile = true
 
 [[files]]
+file = "mods/bettergrassify.pw.toml"
+hash = "2b70e6541f9a7a145e7c322af9912c736e5e6605a3f910550ff59686df1163e8"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "60e905f807d7d395d4c7e111ddfc58ee6147daad804c5f36b984e92426c512fc"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "f98790320a1cb09f3acf4f02f8e748dde9d0b196d1db16c696a4dcf56cf91133"
+hash = "69e793a869286eec2f8159af89ff31c01ffb5a197601a135da73e6a1e10cd0fe"
 metafile = true
 
 [[files]]
@@ -173,12 +178,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "520fe1174b2b1ee225bf1cba2bbcacb1ef00d131c250d8ef57290e62f51f49ea"
+hash = "2a567f668d2456ca1699f050b149015a8636a4692a2d5078b297417f2d047200"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ee8ba3d28a555bf7fb38e92082bf781d6c61b5dc923c73b7f46755ce73490c01"
+hash = "d36e7ee552abdd4214ff87fd37673bb7a340c2cbd5d032b2b04b5b2790caa4bc"
 metafile = true
 
 [[files]]
@@ -189,6 +194,11 @@ metafile = true
 [[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "440a8c60841d91069a1e7e73f2d59080156728bb4f149b3e40cbd0aa3cb768ec"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-fabric.pw.toml"
+hash = "cbcee3ba79c50de55d65927e3e3454f359f36c4366ba9c62e6d2dd20304ff096"
 metafile = true
 
 [[files]]
@@ -223,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/model-gap-fix.pw.toml"
-hash = "1c96dae7535482219f75babe4e6e9b1ff834cf4318ecf6018fd0d5dbdd820456"
+hash = "f177093f7b7b0c705ff62449fd353fce870e20ebf0eedf401cf30a0e08f669bb"
 metafile = true
 
 [[files]]
@@ -243,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "d8a7f4537e7a8d0621618f44cb596d084c4ee26e573c56846e72248d6bb65aa7"
+hash = "1c2b5d5abe012ad2908c2e685ca7c1f90ef6579c7aa5838a287641a5f1aef00b"
 metafile = true
 
 [[files]]
@@ -254,6 +264,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "d4e1417fa602f63d09d9c0b28ca60bf38f9a5541e73d522a082a6c6f5b04c36b"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "3fa812a6abeb972631c7fa4e605c2ba7c3d61b426885fe1b04b36305aff6e2f3"
 metafile = true
 
 [[files]]
@@ -268,12 +283,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "ec5728f9625b39e5d8fe25c5460f44c967f4f7e2b5569891a19b15c7da172ac8"
+hash = "0de19a9751f441220e2c4c728330b55f89d406563e35d854d665e58b1287fa5d"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "b98677645f091f1dd10168a3191605937408e80b3ffa61e90ff22ae8599ae6c7"
+hash = "d2280cbaf9eb110e6c7bb40d60f32cb5203886cd5cfb42315db65461553e64f6"
 metafile = true
 
 [[files]]

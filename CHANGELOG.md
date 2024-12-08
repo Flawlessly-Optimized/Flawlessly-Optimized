@@ -2,6 +2,18 @@
 
 ## 1.21.4
 
+### 1.1.1-alpha (08/12/24)
+
+**🔄Updated mods:**
+- **Entity Culling,BadOptimizations,Model Gap Fix,No Chat Reports,Cloth Config API,Sodium,Fabric API,YetAnotherConfigLib**
+- Re-add **BetterGrassify,Puzzle,FerriteCore**
+
+**⬇️Other changes:**
+- **Entity Culling** removed from dependencies (Now supports 1.21.4)
+
+**❌Missing mods:**
+- **Animatica,Better Mount HUD,CIT Resewn,Continuity,Debugify,Enhanced Block Entities,FabricSkyboxes,FabricSkyBoxes Interop,FastQuit,Language Reload,ModernFix,Nvidium,Polytone,Remove Reloading Screen**
+
 ### 1.0.0-alpha (04/12/24)
 
 **🔄Updated mods:**

@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "6049d308962a7a768186d5352ceefeb914b3d7e7784e6b7703dd03bdda4832d5"
+hash = "eda9b0ec7b432e982306c3f3bea844819b180695ac5c6d269a904a371ba8991f"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "1e9d927180e78edd195a722c0e033fd459aa9bb219178190cb9c518f4b4475f1"
+hash = "554afc833c2278d465d98ef66ae9530739d0bc297a07aa07e807eac749ba49e5"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -66,7 +66,7 @@ hash = "7e30147e41c4ec54007a0e6fddf4524d029617035777a4d99d872183b29a5a24"
 
 [[files]]
 file = "config/yosbr/config/fabric_loader_dependencies.json"
-hash = "6049d308962a7a768186d5352ceefeb914b3d7e7784e6b7703dd03bdda4832d5"
+hash = "eda9b0ec7b432e982306c3f3bea844819b180695ac5c6d269a904a371ba8991f"
 
 [[files]]
 file = "config/yosbr/config/fabrishot.properties"
@@ -90,7 +90,7 @@ hash = "e553ecb727e562a41c4b6867bbec467c8248f9564364a03d2dd3b9be89a7c19c"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "1e9d927180e78edd195a722c0e033fd459aa9bb219178190cb9c518f4b4475f1"
+hash = "554afc833c2278d465d98ef66ae9530739d0bc297a07aa07e807eac749ba49e5"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -138,7 +138,12 @@ hash = "ca4fe236baac9d3485812c9802dd5a74c25eec22dd37fb45ce270bb277f739b5"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "2bb6c29a5574f67ad7f1b60bad7acfb91ec2aa8bbe5455d412dd7abb2542de61"
+hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
+metafile = true
+
+[[files]]
+file = "mods/bettergrassify.pw.toml"
+hash = "c3dd5f3ca310d0db3d2c5b515190c388ab3c5f266f027d4f765dea4ed925538a"
 metafile = true
 
 [[files]]
@@ -148,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "6bb5dc7d6fd4a3dcc54144f35ad6aee8d3d4903571931e702df9a83610d69179"
+hash = "5399a1ed17d95e0e019585a47b7230cf52ebc2a750c249c58dc7324b6b55d03d"
 metafile = true
 
 [[files]]
@@ -168,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "fe4a894703704d94bdf7b5cfed82137b5a11f9953852a033d77e57b09614ce5b"
+hash = "49f8089d53aa0e40f6b9551e7931d4f502faf07f0c72fb7e1d6d8bc471a09482"
 metafile = true
 
 [[files]]
@@ -178,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b560ec1ece536f7ad76fc7515798295683b41acf4392ccd1209397de48146496"
+hash = "b855cfb2d682b624943882eae3871a0981b622eeb249d4992a00516e8ff8156d"
 metafile = true
 
 [[files]]
@@ -189,6 +194,11 @@ metafile = true
 [[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "bcf893af157a78869ef9a72781bc5783383772d018ae2887515905f3fffcd65b"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
 metafile = true
 
 [[files]]
@@ -223,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/modelfix.pw.toml"
-hash = "d12b136e07f6f83a1e199aabe430426d19702c9f69e55731092b5d5c2f3fb69f"
+hash = "78946e7851174a7462125185cb6306f5bac4fe5b90a3f4396cd8a79d56084661"
 metafile = true
 
 [[files]]
@@ -243,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "477ee00ae9c0473f452c78a3191428a5758486c4e74955e0fc741481fc5dc14b"
+hash = "95ff1073b74b23e62cae94569ffb63e6e2f244d99a6d1a38c4a26bdd183a64eb"
 metafile = true
 
 [[files]]
@@ -254,6 +264,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "1aa9d9b8c8af21f542883197014337a3746a5eaee3345639c5ab1c50781ddbe6"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "bedeab81b949543d6e5ba34a496f63543cdcbc33982a44794fc14de48eec5b8b"
 metafile = true
 
 [[files]]
@@ -268,12 +283,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "844a0c4a5001591c8bd14f908f4bb96d11a6892c7384b89909620df1f4689b7c"
+hash = "ce3c7625502d2e0cf4dccf1685006d47a1f59cabf0b33e08fb7623edcd357bde"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "f7b9e27bd715cb8c0fd9fa52e594571af36ef2abbd9e139d27a4a61b5767eff1"
+hash = "4b7c266cf6c560aec780394f515cbe880c72fb07286f60694823fde3b926f184"
 metafile = true
 
 [[files]]
