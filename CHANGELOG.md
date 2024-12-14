@@ -2,6 +2,19 @@
 
 ## 1.21.4
 
+### 1.2.1-alpha (14/12/24)
+
+**🔄Updated mods:**
+- **Fabric API,Noisium,OptiGUI,Iris Shaders,Entity Texture Features,Cloth Config API,BetterGrassify,Entity Model Features,More Culling,LambDynamicLights**
+- Re-add **Better Mount HUD,Language Reload,Animatica** (Ported by [Riflusso](https://github.com/Riflusso) and tested)
+
+**⬇️Other changes:**
+- Simular distance set by default now 8
+- **Noisium** removed from dependencies
+
+**❌Missing mods:**
+- **CIT Resewn,Continuity,Debugify,Enhanced Block Entities,FabricSkyboxes,FabricSkyBoxes Interop,FastQuit,ModernFix,Nvidium,Polytone,Remove Reloading Screen**
+
 ### 1.1.1-alpha (08/12/24)
 
 **🔄Updated mods:**

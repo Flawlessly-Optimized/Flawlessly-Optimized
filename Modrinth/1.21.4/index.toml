@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "eda9b0ec7b432e982306c3f3bea844819b180695ac5c6d269a904a371ba8991f"
+hash = "be402070283511fb0aefb33978e1809e003086941af188d05bbc13ede5a0bd96"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "554afc833c2278d465d98ef66ae9530739d0bc297a07aa07e807eac749ba49e5"
+hash = "181ee74e6eb3478b455072f261c8838d80bbef724223f7263e4d69ffdb7ab1e2"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -66,7 +66,7 @@ hash = "7e30147e41c4ec54007a0e6fddf4524d029617035777a4d99d872183b29a5a24"
 
 [[files]]
 file = "config/yosbr/config/fabric_loader_dependencies.json"
-hash = "eda9b0ec7b432e982306c3f3bea844819b180695ac5c6d269a904a371ba8991f"
+hash = "be402070283511fb0aefb33978e1809e003086941af188d05bbc13ede5a0bd96"
 
 [[files]]
 file = "config/yosbr/config/fabrishot.properties"
@@ -90,7 +90,7 @@ hash = "e553ecb727e562a41c4b6867bbec467c8248f9564364a03d2dd3b9be89a7c19c"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "554afc833c2278d465d98ef66ae9530739d0bc297a07aa07e807eac749ba49e5"
+hash = "181ee74e6eb3478b455072f261c8838d80bbef724223f7263e4d69ffdb7ab1e2"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -134,7 +134,11 @@ hash = "589959a2666d8611845e871dd86c51976236aed058fc2bfc6823ce2aa647c440"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "ca4fe236baac9d3485812c9802dd5a74c25eec22dd37fb45ce270bb277f739b5"
+hash = "1b2e419f0d196abc55bda4e876d99aa9084da9ac623386f5f566a8a5986147e9"
+
+[[files]]
+file = "mods/[Github-PR]animatica-0.6.2+1.21.4.jar"
+hash = "22967bf9ac175090495cd2207aefdffb7ba41a9a4095a9703ef0ef6b2af3a222"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
@@ -142,8 +146,13 @@ hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
 metafile = true
 
 [[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "385f6606afc7086a39eaceec2df95e0c2c5d7aa3a3b31cb67e2a337eb10a4167"
+metafile = true
+
+[[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "c3dd5f3ca310d0db3d2c5b515190c388ab3c5f266f027d4f765dea4ed925538a"
+hash = "44bd672c705d361134263fb05f6441a447cc04ab51f2ad804721abcb98ab7cf6"
 metafile = true
 
 [[files]]
@@ -153,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "5399a1ed17d95e0e019585a47b7230cf52ebc2a750c249c58dc7324b6b55d03d"
+hash = "df15648dd4d4e27dd0c45ab4e78277c45886b77a698b129f4ce2d2bc337f7044"
 metafile = true
 
 [[files]]
@@ -168,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "bb09e0a2886a6dbfe8d43b3967381226698e8513653a41d6fac7b95c435e89fc"
+hash = "27e3795b88083b8740336158d5b29f19b010d7ba44e1afbd01a6288ecdeb364e"
 metafile = true
 
 [[files]]
@@ -178,12 +187,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "2935ee30239f07c385a6343058108bc761a08c7923f4053908fb238cc3e67c90"
+hash = "0f63df0b45aa0c992668d92019caaf050b742b23705c05046ce173697d009eec"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b855cfb2d682b624943882eae3871a0981b622eeb249d4992a00516e8ff8156d"
+hash = "bae6c7361d1a1dd2ff099c563226526fd86069d68f6bb242bbae1a610a173204"
 metafile = true
 
 [[files]]
@@ -208,12 +217,17 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "fab5229d04b641be34afd2311065bca94fc8d59f9a78b9401e1dc6e9ac6dff31"
+hash = "3f032ca0324e6d7cc2126a05e812487f14d7ebd911ff15f510386b94481630c9"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "cb0fecdbdc6f0ad5c72181432fecfff479c05e3c5d461b8ffe96a3c3c411cb85"
+hash = "9752dfb3a2284f00d64d338df2d740e5c55bfcd4eb1aa7819fd9915a007468ef"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+hash = "81ea6ca456261caaf5df55f5e5ba0dfbf04e9daf23cd93e00c35cec4d3fb27b3"
 metafile = true
 
 [[files]]
@@ -248,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "e98ab94b7a9717621219a085416783de75c84aecdab6eae5413143bfab874639"
+hash = "5b1bc48f697f738fbc8c29a2735f5ee415d37c72a50783ce73e11c04087aa08e"
 metafile = true
 
 [[files]]
@@ -258,12 +272,12 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "1d1edcd545d8ce0252488071aaa0d69fb7bfe9a937a21117f00e4b122f049ce3"
+hash = "85ae542e2ccfb61bcdd3aa55b1a56436782687ba63388e249cb98376737045d4"
 metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "1aa9d9b8c8af21f542883197014337a3746a5eaee3345639c5ab1c50781ddbe6"
+hash = "f59ab3633f781c5b5af3234f694da4c4d5195c9211b1ece7e410b54ec1a183eb"
 metafile = true
 
 [[files]]
