@@ -2,6 +2,15 @@
 
 ## 1.21.4
 
+### 1.3.1-beta (20/12/24)
+
+**🔄Updated mods:**
+- **MoreCulling,Fabric API,Entity Model Features,Sodium**
+- Re-add **Debugify, Polytone, FastQuit** (Ported to 1.21.4 by [megabyte6](https://github.com/megabyte6))
+
+**❌Missing mods:**
+- **CIT Resewn,Continuity,Enhanced Block Entities,FabricSkyboxes,FabricSkyBoxes Interop,ModernFix,Nvidium,Remove Reloading Screen**
+
 ### 1.2.1-alpha (14/12/24)
 
 **🔄Updated mods:**
