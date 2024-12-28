@@ -2,6 +2,18 @@
 
 ## 1.21.4
 
+### 1.4.1-beta (28/12/24)
+
+**🔄Updated mods:**
+- **Polytone,BetterGrassify,Sodium,Fabric API,Iris Shaders,Reese's Sodium Options**
+- Re-add **ModernFix,Continuity**
+
+**⬇️Other changes:**
+- Config **ModernFix** set `mixin.bugfix.missing_block_entities=true`
+
+**❌Missing mods:**
+- **CIT Resewn,Enhanced Block Entities,FabricSkyboxes,FabricSkyBoxes Interop,Nvidium,Remove Reloading Screen**
+
 ### 1.3.1-beta (20/12/24)
 
 **🔄Updated mods:**

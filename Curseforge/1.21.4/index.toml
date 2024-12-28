@@ -6,7 +6,11 @@ hash = "be402070283511fb0aefb33978e1809e003086941af188d05bbc13ede5a0bd96"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "8f700c7a8028b3a016f42ac1790a301d8f1bdbb6206b1ab1704132e41512c2d6"
+hash = "3daaffd847a51bd580b4019a30bf660aaf58fc62bd7e89e82c619b7ec65e5991"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "446250f79794774b752ecfc5a812aa88a326e8ebad5cfda95e88b6d0e7a0fa3d"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -90,7 +94,7 @@ hash = "e553ecb727e562a41c4b6867bbec467c8248f9564364a03d2dd3b9be89a7c19c"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "8f700c7a8028b3a016f42ac1790a301d8f1bdbb6206b1ab1704132e41512c2d6"
+hash = "3daaffd847a51bd580b4019a30bf660aaf58fc62bd7e89e82c619b7ec65e5991"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -102,7 +106,7 @@ hash = "09e3eb9d7d8f089057645613ec5859974551966b8e980d0371e76df392fafc40"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "6e54d8ee40eabe16a06733265d5f90be10e699618cac1b89fbb0d28be776fdf5"
+hash = "446250f79794774b752ecfc5a812aa88a326e8ebad5cfda95e88b6d0e7a0fa3d"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -156,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "2c43b6caceb6eabe93fbe3688a91036151239accc4eec9b4ab3bcb5b8688c42e"
+hash = "08f1ca0e06c1d6b29e110f79391dba1b6124485ec8714a473086dd9ac354b389"
 metafile = true
 
 [[files]]
@@ -167,6 +171,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "759225faa85e3112ff935bba420bdde12ff766c848735e27a87920ae6ba61b4e"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "41ce2ceb6374c5db27705af6a8dae1fa82b9c522e6ba75dc1a0ebb8cc23f44d4"
 metafile = true
 
 [[files]]
@@ -201,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4150c3de6b53800f272de72f3a837516f77a35183a5b979ade7b08ee4b72c33f"
+hash = "9f7e1128dc82d5cb8c69531e7ebf240d5c97ce13a1c56258fcf101b6bc2de3d9"
 metafile = true
 
 [[files]]
@@ -226,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "0c5e4ac146294ed886c53392d414922c43ce421c66bafda1eb924d334df20ca8"
+hash = "4a4a5f685d480327c4279d3a28a13bc7385d4b50f104930f28a4b994c4abfcba"
 metafile = true
 
 [[files]]
@@ -257,6 +266,11 @@ metafile = true
 [[files]]
 file = "mods/model-gap-fix.pw.toml"
 hash = "f177093f7b7b0c705ff62449fd353fce870e20ebf0eedf401cf30a0e08f669bb"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "496d0d6cb2e01327804ce016c95318604f4905e5c5e8886fa7b04b2511584477"
 metafile = true
 
 [[files]]
@@ -291,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "a09f832b9434a79d4fb0b174eb862e234856ca6d2e0090b7b1c25a96781d6a61"
+hash = "20d456a421875d1f72364ded4d550109261ffc244e748f243630f15b725764ef"
 metafile = true
 
 [[files]]
@@ -301,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "badb064b6fc4fe7bdd18fa9247d1152ae00ff0ff84cf9fffe0a2c8e7ff1ad5e6"
+hash = "eb777bf5f444869814a2dd5aa9590ff3fcdbdd094a43de421d30896666a0fb96"
 metafile = true
 
 [[files]]
@@ -311,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c3ca5169edfc3cde0862787579b43a49fcaf2f2110813843bea11b0f7256a75f"
+hash = "ab827373df4a5d08647cdac2bb2b388fd7f8f50521c9db2e4c6fe86efd97db40"
 metafile = true
 
 [[files]]

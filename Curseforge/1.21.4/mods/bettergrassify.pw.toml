@@ -1,13 +1,13 @@
 name = "BetterGrassify"
-filename = "BetterGrassify-1.4.1+fabric.1.21.4.jar"
+filename = "BetterGrassify-1.4.2+fabric.1.21.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "cde642ad13052a3485779f969f97a413a9f5ccd5"
+hash = "3a7001f6dce5a052dbfeb1ec8d55e2dbccbb5738"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5976792
+file-id = 6025096
 project-id = 1026394
