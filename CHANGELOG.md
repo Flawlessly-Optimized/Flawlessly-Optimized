@@ -2,6 +2,18 @@
 
 ## 1.21.4
 
+### 1.5.1-beta (12/01/25)
+
+**🔄Updated mods:**
+- **Entity Texture Features,MoreCulling,Mod Menu,Fabric API,Polytone,ModernFix,BetterGrassify**
+- Re-add **Remove Reloading Screen, Forge Config API Port**
+
+**⬇️Other changes:**
+- Fabric Loader updated to version 0.16.10 and enforced
+
+**❌Missing mods:**
+- **CIT Resewn,Enhanced Block Entities,FabricSkyboxes,FabricSkyBoxes Interop,Nvidium**
+
 ### 1.4.1-beta (28/12/24)
 
 **🔄Updated mods:**
