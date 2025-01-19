@@ -6,7 +6,7 @@ hash = "063e5b982a0ec2d3403879963dbf1c28baad9770c3e39b50246571199023de9f"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d00f5d7396c581ecd9c6f7b2441bbb43301b072687e3cc611df4ee625981f4e1"
+hash = "a810d1f05f9976e8f5bd36d74e131e1694a95562bca4490f1229ee694fa7f678"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -90,7 +90,7 @@ hash = "e553ecb727e562a41c4b6867bbec467c8248f9564364a03d2dd3b9be89a7c19c"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "d00f5d7396c581ecd9c6f7b2441bbb43301b072687e3cc611df4ee625981f4e1"
+hash = "a810d1f05f9976e8f5bd36d74e131e1694a95562bca4490f1229ee694fa7f678"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -181,12 +181,17 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "3e9322e16b6bb4db8237bfbd8e648d514dc17a9e130550c21c39f3e895ce24e9"
+hash = "f605331d864b266407b9d4486a4355febbc80b5e2e6ef75e4d92d45d2b29bc8f"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ef5594aca1039c06c502f9d3f4a709195b727abb3b2893652dfe38d983ff87c2"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "dd20f1974e186aff79bb4a6cd970ddb335201be400914b2790b1056a30a1b60b"
 metafile = true
 
 [[files]]
@@ -206,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "010dbda409c0c2f96ae0b2ede06f1c3583b1c4ac634d145b45606238f89784a6"
+hash = "ff598f555942476705a5691c20d324cb2c0cacd27729424f94a1a34cb29f75d2"
 metafile = true
 
 [[files]]
@@ -216,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "bcf893af157a78869ef9a72781bc5783383772d018ae2887515905f3fffcd65b"
+hash = "0339adf619aeb1812b37d569da7f65f1f23980f7e250abca0bf56940637d7891"
 metafile = true
 
 [[files]]
@@ -251,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "b8284c53c59f71991c522d190b4bedb7703a86ba27b900c335f1602aecb1510b"
+hash = "7f419d8fb92a7567a747f3f448b357c1c31198826ce3e0e61966489561bfdf67"
 metafile = true
 
 [[files]]
@@ -306,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "90b2c0e8794bdb55fe220160c69248bf7ff68450f98d81d2436cbf2fb94df19b"
+hash = "504e426cee2a2c29c18c4824512025c2493f384659a903a61d872e9dbe4e5b1d"
 metafile = true
 
 [[files]]
@@ -316,7 +321,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "354ca35e2a2990c6990b3a2c6e00b6843f494bcf274db799e6a4c176a555b92d"
+hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
 
 [[files]]

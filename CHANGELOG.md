@@ -2,6 +2,15 @@
 
 ## 1.21.4
 
+### 1.6.1-beta (19/01/25)
+
+**🔄Updated mods:**
+- **Debugify,Lithium,Reese's Sodium Options,Fabrishot,Fabric API,Polytone**
+- Re-add **Enhanced Block Entities**
+
+**❌Missing mods:**
+- **CIT Resewn,FabricSkyboxes,FabricSkyBoxes Interop,Nvidium**
+
 ### 1.5.1-beta (12/01/25)
 
 **🔄Updated mods:**
