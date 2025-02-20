@@ -13,11 +13,11 @@ jobs:
               id: download-files
               with:
                 fileName: "*.zip"
-                latest: true
+                tag: ${{ vars.RELEASE_TAG }}
+                latest: false
                 tarBall: false
                 zipBall: false
                 preRelease: true
-
             - name: Publish to Curseforge
               uses: Kir-Antipov/mc-publish@v3.3
               with:
@@ -28,7 +28,6 @@ jobs:
                loaders: fabric
                game-versions: ${{ vars.MC_VERSION }}
                version-type: ${{ vars.VERSION_T }}
-
     publish-to-modrinth:
         runs-on: ubuntu-24.04
         environment: github-actions
@@ -38,11 +37,11 @@ jobs:
               id: download-files
               with:
                 fileName: "*.mrpack"
-                latest: true
+                tag: ${{ vars.RELEASE_TAG }}
+                latest: false
                 tarBall: false
                 zipBall: false
                 preRelease: true
-
             - name: Publish to Modrinth
               uses: Kir-Antipov/mc-publish@v3.3
               with:
@@ -55,4 +54,3 @@ jobs:
                 game-versions: ${{ vars.MC_VERSION }}
                 version: ${{ vars.VERSION }}
                 version-type: ${{ vars.VERSION_T }}
-

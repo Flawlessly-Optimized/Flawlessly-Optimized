@@ -2,6 +2,18 @@
 
 ## 1.21.4
 
+### 1.6.2 (20/02/25)
+
+**🔄Updated mods:**
+- **Iris Shaders,Lithium,Sodium,Fabric API,Remove Reloading Screen,Fabric Language Kotlin,Enhanced Block Entities,Polytone,MoreCulling,Dynamic FPS,ModernFix,Mod Menu,ImmediatelyFast,Fastquit**
+
+**⬇️Other changes:**
+- Now status modpack for 1.21.4 changed to `Release`
+- Next versions of 1.21.4 only bugfix and update mods.
+
+**❌Missing mods:**
+- **CIT Resewn,FabricSkyboxes,FabricSkyBoxes Interop,Nvidium**
+
 ### 1.6.1-beta (19/01/25)
 
 **🔄Updated mods:**
