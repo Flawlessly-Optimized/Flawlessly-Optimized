@@ -2,6 +2,19 @@
 
 ## 1.21.4
 
+### 1.6.3 (21/02/25)
+
+**🔄Updated mods:**
+- **Iris Shaders,MoreCulling,Fabric API**
+
+**⬇️Other changes:**
+- When chest,enderchest and bell interacted, a black and purple texture appeared. `mixin.perf.dynamic_resources=false` disabled in ModernFix.
+- In MoreCulling `useBlockStateCulling = false` has caused some problems. And `useCustomItemFrameRenderer = true` is now giving you a boost in fps.
+- In Lithium config set `mixin.experimental.entity.block_caching.fire_lava_touching=false`
+
+**❌Missing mods:**
+- **CIT Resewn,FabricSkyboxes,FabricSkyBoxes Interop,Nvidium**
+
 ### 1.6.2 (20/02/25)
 
 **🔄Updated mods:**

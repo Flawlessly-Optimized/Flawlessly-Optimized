@@ -6,7 +6,19 @@ hash = "063e5b982a0ec2d3403879963dbf1c28baad9770c3e39b50246571199023de9f"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "611baf07f29758dd15c739816ee0150c288a7d612a1a78cc03db0135473285ae"
+hash = "1dfecd2303e3782c3de7ab6b6683d547347f1c4622c1bd9ab0fa2a8ffc10c79b"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "753cdafd25b9ebb1aa5ab2ea053b459e3697773c7b0aaa8349678b0cc7b4e920"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "0ea5e0f6bd88ce899973e203c9e7ba5f30a38c6eb8fdd7236b6c44a470edddca"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "75e86046ecf7a99e7eab36c7424e3a2aeacf2783856dc4bd421e57703cd2df19"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -90,7 +102,7 @@ hash = "e553ecb727e562a41c4b6867bbec467c8248f9564364a03d2dd3b9be89a7c19c"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "611baf07f29758dd15c739816ee0150c288a7d612a1a78cc03db0135473285ae"
+hash = "1dfecd2303e3782c3de7ab6b6683d547347f1c4622c1bd9ab0fa2a8ffc10c79b"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -98,11 +110,11 @@ hash = "c71d65a4c83caf9b6ecb3cb80729b621bebf8ef9942391ca6f9c9c3d1cb190f4"
 
 [[files]]
 file = "config/yosbr/config/lithium.properties"
-hash = "09e3eb9d7d8f089057645613ec5859974551966b8e980d0371e76df392fafc40"
+hash = "753cdafd25b9ebb1aa5ab2ea053b459e3697773c7b0aaa8349678b0cc7b4e920"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "446250f79794774b752ecfc5a812aa88a326e8ebad5cfda95e88b6d0e7a0fa3d"
+hash = "0ea5e0f6bd88ce899973e203c9e7ba5f30a38c6eb8fdd7236b6c44a470edddca"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -110,7 +122,7 @@ hash = "f567c383882e1267c38a18e844a497e95500a9e06c9e7f679b19f8c9c662d118"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
-hash = "efa5312b5e7a62402cfc9a2a7c1219a4269d4e2c2158292142691cebadbb3790"
+hash = "75e86046ecf7a99e7eab36c7424e3a2aeacf2783856dc4bd421e57703cd2df19"
 
 [[files]]
 file = "config/yosbr/config/nvidium-config.json"
@@ -207,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b4da7761a4858fdb3428700e76c3fe8f8ecb6d7126b842e34d4d00db8e1974f0"
+hash = "31b0a063c3052b68c11130ad864a2c24ea29261e43df0f69cc11f70ab75eff8a"
 metafile = true
 
 [[files]]
@@ -242,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "bccd1a225c530e77959f2a62e0108e444edce1edc2a4cb029824553a72b380e7"
+hash = "4b18eb3f964a34971bb1e695f3c9440a943913db4b72dca51730e2754b2f1866"
 metafile = true
 
 [[files]]
@@ -292,7 +304,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "e2ebd106e025f64d670b7cdc9d64a9539f39984a505a0ab18a04dd001b142c73"
+hash = "631bee2b9cf4bdc733e6a35ea73b0dc83fe76734c48c10d169132af1c8029304"
 metafile = true
 
 [[files]]
