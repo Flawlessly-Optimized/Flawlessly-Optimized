@@ -233,6 +233,16 @@
 
 ## 1.21.1
 
+### 1.2.3 (27/02/25)
+
+**🔄Updated mods:**
+- **Fabric Language Kotlin,LambDynamicLights,ModernFix,YetAnotherConfigLib,ImmediatelyFast,Entity Model Features,Entity Culling,Continuity,OptiGUI,BadOptimizations,Fabric API,Language Reload,Dynamic FPS,Entity Texture Features**
+- **Please note that version 1.2.3 is the latest version on which will be Sodium 0.5.x. Future updates on Sodium 0.5.x will not be on Sodium 0.6.x+ only.**
+
+**⬇️Other changes:**
+- Fabric Loader updated to version 0.16.10 and enforced
+- In YOSBR now `option.txt` set by default `simulationDistance:8`
+
 ### 1.2.2 (15/11/24)
 
 **🔄Updated mods:**

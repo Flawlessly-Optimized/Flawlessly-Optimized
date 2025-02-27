@@ -1,13 +1,13 @@
 name = "BadOptimizations"
-filename = "BadOptimizations-2.2.0-1.21.1.jar"
+filename = "BadOptimizations-2.2.1-1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a50dbf3cd82821e92a6db81fa893d9373c3b5447"
+hash = "888488898628016d421bc6b4fe2ae998aba2b522"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5836119
+file-id = 5961419
 project-id = 949555

@@ -1,16 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/badoptimizations.txt"
-hash = "129405784405667b1b0abfa2701d349927e9800314fba47dd0acf9a5138bba92"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "8fba7a404c365a9fe45b74a7b244cc332976dcacc0fa7fcda2e9857c8f194c42"
+hash = "58f8890e71b5ef0b27954680c4fe81738bf54e6e72310dff1dd071ce0989549e"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b21901ea9c6823449d0efab4308fec39c3020d64c6cb426f96ae10ba8b9d04cd"
+hash = "119789164b546b8b6b99b091c17be6e9d60274673e0e05b36bd0ef5a29cdcd66"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -70,7 +66,7 @@ hash = "7e30147e41c4ec54007a0e6fddf4524d029617035777a4d99d872183b29a5a24"
 
 [[files]]
 file = "config/yosbr/config/fabric_loader_dependencies.json"
-hash = "8fba7a404c365a9fe45b74a7b244cc332976dcacc0fa7fcda2e9857c8f194c42"
+hash = "58f8890e71b5ef0b27954680c4fe81738bf54e6e72310dff1dd071ce0989549e"
 
 [[files]]
 file = "config/yosbr/config/fabrishot.properties"
@@ -94,7 +90,7 @@ hash = "e553ecb727e562a41c4b6867bbec467c8248f9564364a03d2dd3b9be89a7c19c"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "b21901ea9c6823449d0efab4308fec39c3020d64c6cb426f96ae10ba8b9d04cd"
+hash = "119789164b546b8b6b99b091c17be6e9d60274673e0e05b36bd0ef5a29cdcd66"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -138,7 +134,7 @@ hash = "589959a2666d8611845e871dd86c51976236aed058fc2bfc6823ce2aa647c440"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "a2e3dd222fa98083da6b364a05b5e0a6c10d0a083fcdd0bc3b618a11d45f310a"
+hash = "3f8295de54f58acf1bbe4bb157867fd8bda66090c4077fc39926b018a4fd8df0"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -147,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "515e6bb16a175b9d23a85e9d4ea1c00145d3b85ccb44dc3d8762209538b5c3ba"
+hash = "b21ef031c6ad139361352529cb63f4799ffa91008895e1c7a9a5102ea007ae2d"
 metafile = true
 
 [[files]]
@@ -177,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "4b9b65e3b6af2c4e2dfc86e1bda626dd4f9b69a68498744c10d85005538adb05"
+hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
 metafile = true
 
 [[files]]
@@ -192,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "6c697c8b7205ea2be0e04567b42e64f120ccda136930a99c059f80e15ed51ea7"
+hash = "f196ccde943f30a5ab3edccb9b630106ef49cf7500f5887b9b1685eede7c90cc"
 metafile = true
 
 [[files]]
@@ -202,27 +198,27 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "14e62b9300da0d8a8cf5a39bb2ceb9960e8522be3cd6e9f5851550ed3345473d"
+hash = "6e046a0ced37b978d8bf74aa48653822489348c2e65d33e40b93be55763c983f"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "bb86568b5daae326e5fb8157a9d643ffd7398dde4b663cd2d8b1a922a72f2b9d"
+hash = "72ba59908f362d1e954bf0dd79d190e72b31ac1ce221471317902c6c60956e06"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "80c54802303925188e17006fdbaad0c05c007d2e35a107ecfb238ff6118e402a"
+hash = "d41804aff0c09612645047b2e53bfd88a018deaa7e4ad17d6656dd67e0af2a83"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f99dbd4783dd58e213fcccc0a4cb7f6aae01ea06d3e02b37f76ad9d1fc5f867f"
+hash = "fe95430d433104d44c741c22d8f4d0db4678756311acacccddec49e3a39a4091"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
+hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
 metafile = true
 
 [[files]]
@@ -252,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d9d52cb38be989efc4c99d47cb9b6b0eee0b86679b29be6135c5fdb8ecbfbd26"
+hash = "eb89087b0fc75e9689c94912379c9b9c147186e5c931f0b31e1e930c277f0520"
 metafile = true
 
 [[files]]
@@ -267,12 +263,12 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "a10649f91fe0d1f5cd96c14421ac53f84843dc7fd49c4f9dd5a20b1e80f5f6df"
+hash = "0802f98909f8ef394056804e4772be187ff3143c9d4038ccb7dc3dcacfe535fc"
 metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "7e1a5dfc89f7f8c99397df79d5339e1b920b316c0860ef25d5ba06832455eae9"
+hash = "ef20ce84613504cc5db9a3c405a27cdaca28863c7b03f9328fd8431b664c359b"
 metafile = true
 
 [[files]]
@@ -297,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d795ac4bc7321d5b9defa33eaba9e03b5fa38b8345d827417d9366913567cb67"
+hash = "6be9bf8af4c867d6cc7c680df870e2b878fbec4090160f3df3a8426c61216472"
 metafile = true
 
 [[files]]
@@ -332,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "ca77b2f891e554b3ba0db25f14403f7fbe9dceb7c0958e8077684b9a2d34529b"
+hash = "5501d478ef5237f12cf0a2e4b683954cf1482b43fdf090c6f5d9bec4409f3324"
 metafile = true
 
 [[files]]
@@ -362,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "481ee07891029ab927064d9b9aef897b6c4bcde3e0882d8407adf2794a8745ef"
+hash = "b2e559bf66f44288db486503e72c61b3eb0f3bcb5a61a7a236918573ec13561a"
 metafile = true
 
 [[files]]
